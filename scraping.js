@@ -1,61 +1,110 @@
 var cheerio = require("cheerio");
 var request = require("request");
-var MongoClient = require('mongodb').MongoClient;
-var url = "mongodb://localhost:27017/StartUpSchool";
+var async = require("async");
+let MongoClient = require('mongodb').MongoClient;
+const mongourl = "mongodb://localhost:27017/StartUpSchool";
+let Urls=[];
+const _SOURCE = "STARTUP SCHOOL";
 
-var _SOURCE = "STARTUP SCHOOL";
-request('https://www.startupschool.org/presentations/vertical/agriculture-agtech?course=1',function (error, response, html) {
-    var $ = cheerio.load(html);
-    var items = [];
-    var i = 0;
-	const count= $('a.item.active').children('.circular.label').text().trim();
+ async.series([
+
+        function(callback){
+			// fetching the webpage using request
+			
+           request('https://www.startupschool.org/presentations/vertical/agriculture-agtech?course=1',function (error, response, html){
+                if (error) return callback(error); 
+                var $ = cheerio.load(html);
+                // calculations where I get NewUrl variable...
+				 
+				 $('.presentation-card').each(function(){
+		           const cmpLink = $(this).attr('href');      
+                    const link = 'https://www.startupschool.org/'+cmpLink;
+					   Urls.push(link);					   
+		              
+				  				   
+	           });
+                callback();
+            });
+        },
+		function(callback){
+			// iterating the urls in array Urls
+			
+            for (var i = 0; i <=Urls.length-1; i++) {
+				
+                var url = Urls[i];
+                const items={
+					 Source:_SOURCE,
+					 Presenter: "",
+					 Topic:"",
+		             Email:"",
+		             website:"",
+		             Description:"",
+		             Videosrc:"",
+		             Team:"",
+					 Positions:"",
+		             
+                };	
+				
+                request(url,function (error, response, html) {
+	                  var $ = cheerio.load(html);
 	
-    $('.presentation-card').each(function(){
-      
-        const header = $(this).find('.header').text().trim();
-        const description = $(this).find('.description').text().trim();
-        // cmpLink is the address of the item 
-        const cmpLink = $(this).attr('href');
-        
-        const link = 'https://www.startupschool.org/'+cmpLink;
-        const slink = 'https://www.startupschool.org/'+cmpLink;
-
-		var item = {    
-             header:header,		
-            links:[link,slink],
-            source:_SOURCE,
-            rank:i+1,
-           description:description,
-       };
-
-        items.push(item);
-
-        i++;
-		
-        if(i < count)return true;
-
-
-		items.forEach(function(Item) {
-    const item_title = Item.header;
-	const address_link=Item.links[1];
-	const source=Item.source;
-	const rank=Item.rank;
-	const description=Item.description;
+    $('div.ui.basic.wide.segment').each(function(){
+			
+			items.Presenter=$(this).find('h1.ui.header.center.aligned').clone().children().remove().end().text();
+			items.Topic=$(this).find('h1>div.sub.header').clone().children().remove().end().text();
+			items.Email=$(this).find('h1>div>a:nth-child(2)').text().trim();
+			items.website=$(this).find('h1 a').first().attr('href');
+			items.Description=$(this).find('.ui.basic.segment>p').text().trim();
+			
+			//how do i get the youtube link? faced challenges here?its not returning anything		
+			items.Videosrc=$(this).find('div.ui.embed.active>iframe').attr('src');
+			
+			let Membership=[];
+			
+			$('div.column.center.aligned.company-founder-bio').each(function(){
+				
+				// getting the members of the Company and their positions
+				
+		   const people = {Member:$(this).find('h4.ui.header').clone().children().remove().end().text(),
+			Title:$(this).find('h4>div.sub.header').text().trim(),
+		   }
+		   Membership.push(people);
+		   
+	        });
+			
+			//separating the array of objects
+			//i don"t know why its only returning the first object array details
+			Membership.forEach(function(ItemArray){
+			 items.Team =ItemArray.Member;
+			items.Positions=ItemArray.Title;});
+											
+	});
+			
+    const item_source = items.Source;
+	const item_presenter=items.Presenter;
+	const item_topic=items.Topic;
+	const item_email=items.Email;
+	const item_website=items.website;
+	const item_description=items.Description;
+	const item_video=items.Videosrc;
+	const item_team= items.Team;
+	const item_titles=items.Positions;
+// connecting and saving to mongodb 
 	
-MongoClient.connect(url, function(err, db) {
+MongoClient.connect(mongourl, function(err, db) {
   if (err) throw err;
   const dbo = db.db("StartUpSchool");
-  const myobject = {heading:item_title, address:address_link , websource:source , item_rank:rank ,item_description:description};
+  const myobject = {websource:item_source, presenter:item_presenter, topic:item_topic , emailaddress:item_email, 
+                    website:item_website ,description:item_description,video:item_video, itemMembers:item_team , Memberspositions:item_titles};
   dbo.collection("AgricultureCollection").insertOne(myobject, function(err, res) {
     if (err) throw err;
     console.log("successfully installed");
     db.close();
-  });
+     });
+ });
+    			});				
+           }
+		}	
+		], function (err) {
+    if (!err) callback();
 });
-    
-});
-      
-
-    });
-});
-
