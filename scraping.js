@@ -31,15 +31,15 @@ const SOURCE = "STARTUP SCHOOL";
 				
                    let url = Urls[i];
                    const items = {
-					 Source: SOURCE,
-					 Presenter: "",
-					 Topic: "",
+			     Source: SOURCE, 
+			     Presenter: "",
+			     Topic: "",
 		             Email: "",
 		             website: "",
 		             Description: "",
 		             Videosrc: "",
 		             Team: "",
-					 Positions: "",
+			     Positions: "",
                 };	
 				
                 request(url,function (error, response, html) {      
@@ -70,13 +70,13 @@ const SOURCE = "STARTUP SCHOOL";
 		                     Membership.push(people);
 		           });
 			
-			       /**
-				    * separating the array of objects.
-			        * FIXME: I don't know why its only returning the first object array details
-		            */
-			     Membership.forEach(function(ItemArray) {
-			     items.Team = ItemArray.Member;
-			     items.Positions = ItemArray.Title;});									 		
+	        /**
+		 * separating the array of objects.
+	         * FIXME: I don't know why its only returning the first object array details
+		 */
+	       Membership.forEach(function(ItemArray) {
+	       items.Team = ItemArray.Member;
+	       items.Positions = ItemArray.Title;});									 		
 	  });
 			
           const item_source = items.Source;
