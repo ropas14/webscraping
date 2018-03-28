@@ -94,7 +94,7 @@ const SOURCE = "STARTUP SCHOOL";
      if (err) throw err;
      const dbo = db.db("StartUpSchool");
      const myobject = { websource:item_source, presenter:item_presenter, topic:item_topic, emailaddress:item_email, website:item_website, 
-	                description:item_description, video:item_video, itemMembers:item_team , Memberspositions:item_titles};
+	                description:item_description, video:item_video, itemMembers:item_team , memberspositions:item_titles};
      dbo.collection("AgricultureCollection").insertOne(myobject, function(err, res) {
      if (err) throw err;
      console.log("successfully installed");
