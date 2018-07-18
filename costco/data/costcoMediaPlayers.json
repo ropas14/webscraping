@@ -1,1 +1,36 @@
-[{"brand":"","model":"","category":"Streaming Media Players","source":"Costco","sourceType":"retailer","sourceId":3},{"brand":"","model":"","category":"Streaming Media Players","source":"Costco","sourceType":"retailer","sourceId":3},{"brand":"Apple","model":"","category":"Streaming Media Players","source":"Costco","sourceType":"retailer","sourceId":3},{"brand":"","model":"","category":"Streaming Media Players","source":"Costco","sourceType":"retailer","sourceId":3},{"brand":"Samsung","model":"BD-JM57C","category":"Streaming Media Players","source":"Costco","sourceType":"retailer","sourceId":3}]
+[{
+    "brand": "",
+    "model": "",
+    "category": "Streaming Media Players",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "",
+    "model": "",
+    "category": "Streaming Media Players",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Apple",
+    "model": "",
+    "category": "Streaming Media Players",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "",
+    "model": "",
+    "category": "Streaming Media Players",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Samsung",
+    "model": "BD-JM57C",
+    "category": "Streaming Media Players",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}]
