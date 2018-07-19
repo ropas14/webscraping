@@ -1,0 +1,505 @@
+[{
+    "brand": "LG",
+    "model": "OLED65C8AUA",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Samsung",
+    "model": "UN82NU800DFXZA",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Samsung",
+    "model": "UN82MU800DFXZA",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Samsung",
+    "model": "QN75Q65FNFXZA",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Vizio",
+    "model": "E80-E",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Samsung",
+    "model": "UN75NU800DFXZA",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "LG",
+    "model": "75SK8070AUB",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "LG",
+    "model": "OLED55C8AUA",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Vizio",
+    "model": "P75-F",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "LG",
+    "model": "75SJ857A",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Samsung",
+    "model": "UN75NU710DFXZA",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Samsung",
+    "model": "QN65Q65FNFXZA",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "LG",
+    "model": "75UK6570AUA",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Samsung",
+    "model": "UN75MU6070FXZA",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "TCL",
+    "model": "75C807",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Samsung",
+    "model": "UN65NU800DFXZA",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "LG",
+    "model": "65SK8000AUB",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "LG",
+    "model": "70UK6570AUA",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Samsung",
+    "model": "QN49Q65FNFXZA",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Samsung",
+    "model": "QN55Q65FNFXZA",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Hisense",
+    "model": "65H9050E Plus",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Samsung",
+    "model": "UN65NU710DFXZA",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Samsung",
+    "model": "UN55NU800DFXZA",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Vizio",
+    "model": "M65-F",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "LG",
+    "model": "65UK7700AUB",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "LG",
+    "model": "65UK6500AUA",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Vizio",
+    "model": "E65-F",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "TCL",
+    "model": "65C807",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Samsung",
+    "model": "UN49MU800DFXZA",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Hisense",
+    "model": "65R7050E",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "LG",
+    "model": "60UJ6050",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "LG",
+    "model": "55UK6500AUA",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Hisense",
+    "model": "55H9050E Plus",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Vizio",
+    "model": "E55-F",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Samsung",
+    "model": "UN50NU710DFXZA",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Samsung",
+    "model": "UN43NU710DFXZA",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "LG",
+    "model": "50UK6500AUA",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Hisense",
+    "model": "55R7050E",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Vizio",
+    "model": "D48f-F",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "LG",
+    "model": "43UK6500AUA",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Samsung",
+    "model": "UN43J5202AFXZA",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Samsung",
+    "model": "UN32N5300AFXZA",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Vizio",
+    "model": "D40f-F",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Hisense",
+    "model": "40H5050E",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Vizio",
+    "model": "D32f-F",
+    "category": "Televisions",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Vizio",
+    "model": "",
+    "category": "Sound Bars",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Bose",
+    "model": "",
+    "category": "Sound Bars",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Vizio",
+    "model": "",
+    "category": "Sound Bars",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "",
+    "model": "",
+    "category": "Sound Bars",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Yamaha",
+    "model": "ATS-1070",
+    "category": "Sound Bars",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Bose",
+    "model": "",
+    "category": "Sound Bars",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Samsung",
+    "model": "",
+    "category": "Sound Bars",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "",
+    "model": "",
+    "category": "Sound Bars",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "",
+    "model": "",
+    "category": "Streaming Media Players",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "",
+    "model": "",
+    "category": "Streaming Media Players",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Apple",
+    "model": "",
+    "category": "Streaming Media Players",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "",
+    "model": "",
+    "category": "Streaming Media Players",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Samsung",
+    "model": "BD-JM57C",
+    "category": "Streaming Media Players",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Bose",
+    "model": "",
+    "category": "Home Theater Systems",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "",
+    "model": "",
+    "category": "Home Theater Systems",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Yamaha",
+    "model": "TSR-7810",
+    "category": "Home Theater Systems",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Samsung",
+    "model": "",
+    "category": "Home Theater Systems",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Bose",
+    "model": "",
+    "category": "Home Theater Systems",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Vizio",
+    "model": "",
+    "category": "Home Theater Systems",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Yamaha",
+    "model": "ATS-1070",
+    "category": "Home Theater Systems",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Vizio",
+    "model": "",
+    "category": "Home Theater Systems",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "",
+    "model": "",
+    "category": "Home Theater Systems",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Samsung",
+    "model": "SM-P580NZWAXAR",
+    "category": "Android Tablets",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Samsung",
+    "model": "SM-T813NZDSXAR",
+    "category": "Android Tablets",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Samsung",
+    "model": "SM-T813NZKSXAR",
+    "category": "Android Tablets",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "Samsung",
+    "model": "SM-T580NZKMXAR",
+    "category": "Android Tablets",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}, {
+    "brand": "",
+    "model": "",
+    "category": "Android Tablets",
+    "source": "Costco",
+    "sourceType": "retailer",
+    "sourceId": 3
+}]
