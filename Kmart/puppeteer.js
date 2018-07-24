@@ -1,12 +1,12 @@
 const fs = require('fs');
 const puppeteer = require('puppeteer');
-const baseUrl ="https://www.kmart.com";
+
 
 function extractItems() {
-  const extractedElements = document.querySelectorAll(' h3.card-title a');
+  const extractedElements = document.querySelectorAll('h3.card-title a');
   const items = [];
   for (let element of extractedElements) {
-    items.push(baseUrl+element.getAttribute('href'));
+    items.push(element.innerText);
   }
   return items;
 }
@@ -38,7 +38,6 @@ async function scrapeInfiniteScrollItems(
     args: ['--no-sandbox', '--disable-setuid-sandbox'],
   });
   const page = await browser.newPage();
-  page.setUserAgent('Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3495.0 Safari/537.36');
   page.setViewport({ width: 1280, height: 926 });
 
   // Navigate to the demo page.
@@ -53,3 +52,6 @@ async function scrapeInfiniteScrollItems(
   // Close the browser.
   await browser.close();
 })();
+  
+
+ 
