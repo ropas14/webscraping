@@ -1,0 +1,3071 @@
+[
+  {
+    "brand": "Samsung",
+    "model": "UN50M5300AFXZA",
+    "url": "https://www.kmart.com/samsung-un50m5300afxza-50inch-class-led-smart-4k-uhd/p-SPM9129233002?plpSellerId=Kmart&prdNo=1&blockNo=1&blockType=G1",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN43J5202AFXZA",
+    "url": "https://www.kmart.com/samsung-un43j5202afxza-43inch-class-j5202-full-hd-1080p/p-A022920131?plpSellerId=Kmart&prdNo=2&blockNo=2&blockType=G2",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN55MU6290FXZA",
+    "url": "https://www.kmart.com/samsung-un55mu6290fxza-55inch-class-mu6290-4k-ultra-hdtv/p-012W009713837001P?plpSellerId=Kmart&prdNo=3&blockNo=3&blockType=G3",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN65NU7100",
+    "url": "https://www.kmart.com/samsung-un65nu7100-65inch-class-4k-hdr-mr120/p-A018180359?plpSellerId=Kmart&prdNo=4&blockNo=4&blockType=G4",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "65UJ6200",
+    "url": "https://www.kmart.com/lg-65uj6200-65inch-4k-uhd-hdr-60hz-led/p-A015588358?plpSellerId=Kmart&prdNo=6&blockNo=6&blockType=G6",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "TCL",
+    "model": "32S305",
+    "url": "https://www.kmart.com/32inch-class-hd-roku-smart-tv/p-05746759000P?plpSellerId=Kmart&prdNo=7&blockNo=7&blockType=G7",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Polaroid",
+    "model": "24GSR3000SA",
+    "url": "https://www.kmart.com/polaroid-24inch-720p-60hz-led-hdtv/p-012W009883720001P?plpSellerId=Kmart&prdNo=8&blockNo=8&blockType=G8",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Polaroid",
+    "model": "32GSR3000FB",
+    "url": "https://www.kmart.com/polaroid-32inch-720p-60hz-led-hdtv/p-012W009845944001P?plpSellerId=Kmart&prdNo=9&blockNo=9&blockType=G9",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN32N5300AFXZA",
+    "url": "https://www.kmart.com/samsung-un32n5300afxza-32inch-class-n5300-smart-full-hd/p-A022920220?plpSellerId=Kmart&prdNo=10&blockNo=10&blockType=G10",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Polaroid",
+    "model": "40GSR3000FM",
+    "url": "https://www.kmart.com/polaroid-40inch-1080p-60hz-led-hdtv/p-012W009845945001P?plpSellerId=Kmart&prdNo=11&blockNo=11&blockType=G11",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Polaroid",
+    "model": "50T7U",
+    "url": "https://www.kmart.com/polaroid-50t7u-50inch-smart-uhd-hdr-tv/p-A024985349?plpSellerId=Kmart&prdNo=12&blockNo=12&blockType=G12",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN32J4000",
+    "url": "https://www.kmart.com/samsung-32inch-class-720p-slim-led-hdtv-un32j4000/p-012W006860468001P?plpSellerId=Kmart&prdNo=13&blockNo=13&blockType=G13",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Philips",
+    "model": "PHI-40PFL4901F7",
+    "url": "https://www.kmart.com/philips-40inch-smart-hd-led-tv/p-05745824000P?plpSellerId=Kmart&prdNo=14&blockNo=14&blockType=G14",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Haier",
+    "model": "49UG2500",
+    "url": "https://www.kmart.com/haier-49ug2500-49inch-4k-ultra-hd-tv/p-A014358790?plpSellerId=Kmart&prdNo=15&blockNo=15&blockType=G15",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "43LJ5500",
+    "url": "https://www.kmart.com/lg-43inch-1080p-smart-led-tv/p-05747250000P?plpSellerId=Kmart&prdNo=16&blockNo=16&blockType=G16",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "TCL",
+    "model": "32D100",
+    "url": "https://www.kmart.com/tcl-corporation-32inch-720p-hd-led-tv/p-05746755000P?plpSellerId=Kmart&prdNo=17&blockNo=17&blockType=G17",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Polaroid",
+    "model": "40T2F",
+    "url": "https://www.kmart.com/polaroid-40t2f-40inch-smart-1080p-60hz-led/p-A020595037?plpSellerId=Kmart&prdNo=18&blockNo=18&blockType=G18",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN32J5205AFXZA",
+    "url": "https://www.kmart.com/samsung-32inch-class-1080p-led-smart-hdtv-w/p-012W008049904001P?plpSellerId=Kmart&prdNo=19&blockNo=19&blockType=G19",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "TCL",
+    "model": "40D100",
+    "url": "https://www.kmart.com/tcl-corporation-40inch-720p-hd-led-tv/p-05746756000P?plpSellerId=Kmart&prdNo=20&blockNo=20&blockType=G20",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Polaroid",
+    "model": "40GSR3000FB",
+    "url": "https://www.kmart.com/polaroid-40gsr3000fb-40inch-1080p-60hz-led-tv/p-A020595230?plpSellerId=Kmart&prdNo=21&blockNo=21&blockType=G21",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sharp",
+    "model": "LC-43P5000U-RB",
+    "url": "https://www.kmart.com/sharp-lc-43p5000u-rb-refurbished-43-in/p-A015986253?plpSellerId=Kmart&prdNo=22&blockNo=22&blockType=G22",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Westinghouse",
+    "model": "WD40FX1170-RB",
+    "url": "https://www.kmart.com/westinghouse-refurbished-westinghouse-40-in-1080p-led-wd40fx1170/p-05747274000P?plpSellerId=Kmart&prdNo=23&blockNo=23&blockType=G23",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN32J4000",
+    "url": "https://www.kmart.com/samsung-un32j4000-32inch-class-720p-60hz-slim/p-SPM12357194105?plpSellerId=Kmart&prdNo=25&blockNo=25&blockType=G25",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Westinghouse",
+    "model": "WD32HD1390-RB",
+    "url": "https://www.kmart.com/westinghouse-refurbished-westinghouse-32-in-led-wd32hd1390/p-05747272000P?plpSellerId=Kmart&prdNo=26&blockNo=26&blockType=G26",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Trexonic",
+    "model": "970103850M",
+    "url": "https://www.kmart.com/trexonic-970103850m-portable-lightweight-rechargeable-12inch-led-tv/p-A017811104?plpSellerId=Kmart&prdNo=27&blockNo=27&blockType=G27",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Westinghouse",
+    "model": "WD24HB2600-RB",
+    "url": "https://www.kmart.com/westinghouse-wd24hb2600-rb-refurbished-smart-24-in/p-A010083177?plpSellerId=Kmart&prdNo=28&blockNo=28&blockType=G28",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Axess",
+    "model": "970109353M",
+    "url": "https://www.kmart.com/axess-970109353m-13-inch-led-hdtv-features-1xhdmi-headphone/p-A017043539?plpSellerId=Kmart&prdNo=29&blockNo=29&blockType=G29",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN32M5300AFXZA",
+    "url": "https://www.kmart.com/samsung-un32m5300afxza-32inch-class-led-smart-4k-uhd/p-SPM12357194005?plpSellerId=Kmart&prdNo=31&blockNo=31&blockType=G31",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN55J6201",
+    "url": "https://www.kmart.com/samsung-un55j6201-55inch-class-1080p-smart-led-hdtv/p-012W003242254001P?plpSellerId=Kmart&prdNo=32&blockNo=32&blockType=G32",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "22LJ4540",
+    "url": "https://www.kmart.com/lg-22inch-ips-full-hd-monitor-tv/p-05747243000P?plpSellerId=Kmart&prdNo=33&blockNo=33&blockType=G33",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN65MU650D-RB",
+    "url": "https://www.kmart.com/samsung-un65mu650d-rb-refurbished-65-in-4k/p-A010025958?plpSellerId=Kmart&prdNo=36&blockNo=36&blockType=G36",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "49LJ5500",
+    "url": "https://www.kmart.com/lg-49inch-1080p-smart-led-tv/p-05747251000P?plpSellerId=Kmart&prdNo=37&blockNo=37&blockType=G37",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Polaroid",
+    "model": "55T7U",
+    "url": "https://www.kmart.com/polaroid-55t7u-55inch-smart-uhd-hdr-tv/p-A024984456?plpSellerId=Kmart&prdNo=38&blockNo=38&blockType=G38",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "TCL",
+    "model": "55S405",
+    "url": "https://www.kmart.com/tcl-55s405-55inch-4k-ultra-hd-roku/p-05747431000P?plpSellerId=Kmart&prdNo=39&blockNo=39&blockType=G39",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Vizio",
+    "model": "D65U-D2-RB",
+    "url": "https://www.kmart.com/vizio-refurbished-65-in-4k-smart-led/p-05746886000P?plpSellerId=Kmart&prdNo=40&blockNo=40&blockType=G40",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "OLED65G6P",
+    "url": "https://www.kmart.com/lg-65inch-4k-3d-signature-oled-hdr-smart/p-05745892000P?plpSellerId=Kmart&prdNo=41&blockNo=41&blockType=G41",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "TCL",
+    "model": "65S405",
+    "url": "https://www.kmart.com/tcl-65s405-65inch-4k-ultra-hd-roku/p-05747436000P?plpSellerId=Kmart&prdNo=42&blockNo=42&blockType=G42",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Polaroid",
+    "model": "55GSR4100KL",
+    "url": "https://www.kmart.com/polaroid-55gsr4100kl-55inch-1080p-led-hdtv-w-built/p-A010448069?plpSellerId=Kmart&prdNo=43&blockNo=43&blockType=G43",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN50M530D-RB",
+    "url": "https://www.kmart.com/samsung-un50m530d-rb-refurbished-50-in-1080p/p-A015986269?plpSellerId=Kmart&prdNo=44&blockNo=44&blockType=G44",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "OLED65C6P",
+    "url": "https://www.kmart.com/lg-65inch-curved-oled-4k-3d-smart/p-05745889000P?plpSellerId=Kmart&prdNo=45&blockNo=45&blockType=G45",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Philips",
+    "model": "43PFL4901",
+    "url": "https://www.kmart.com/philips-43inch-smart-hd-led-tv/p-05745818000P?plpSellerId=Kmart&prdNo=46&blockNo=46&blockType=G46",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Polaroid",
+    "model": "55GSR4100KM",
+    "url": "https://www.kmart.com/polaroid-55inch-4k-uhd-120hz-led-tv-with/p-012W009845948001P?plpSellerId=Kmart&prdNo=48&blockNo=48&blockType=G48",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Polaroid",
+    "model": "49GSR4100KM",
+    "url": "https://www.kmart.com/polaroid-49inch-4k-uhd-120hz-led-tv-with/p-012W009845947001P?plpSellerId=Kmart&prdNo=49&blockNo=49&blockType=G49",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN43LS003",
+    "url": "https://www.kmart.com/samsung-un43ls003-43inch-class-the-frame-premium-4k/p-A013733610?plpSellerId=Kmart&prdNo=50&blockNo=50&blockType=G50",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "OLED55C6P",
+    "url": "https://www.kmart.com/lg-55inch-curved-4k-oled-3d-smart-tv/p-05745887000P?plpSellerId=Kmart&prdNo=1&blockNo=1&blockType=G1",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "OLED65B6P",
+    "url": "https://www.kmart.com/lg-65inch-flat-4k-oled-smart-tv-w/p-05745888000P?plpSellerId=Kmart&prdNo=2&blockNo=2&blockType=G2",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "TCL",
+    "model": "65S405",
+    "url": "https://www.kmart.com/tcl-65s405-65inch-4k-ultra-hd-roku/p-05747436000P?plpSellerId=Kmart&prdNo=3&blockNo=3&blockType=G3",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "OLED65E6P",
+    "url": "https://www.kmart.com/lg-65inch-flat-4k-oled-hdr-smart-tv/p-05704589000P?plpSellerId=Kmart&prdNo=4&blockNo=4&blockType=G4",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "OLED55E6P",
+    "url": "https://www.kmart.com/lg-55inch-flat-4k-oled-hdr-smart-tv/p-05745891000P?plpSellerId=Kmart&prdNo=5&blockNo=5&blockType=G5",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "75UJ657A-RB",
+    "url": "https://www.kmart.com/lg-75uj657a-rb-refurbished-75-in-4k/p-A010025808?plpSellerId=Kmart&prdNo=6&blockNo=6&blockType=G6",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "OLED65E8PUA",
+    "url": "https://www.kmart.com/lg-oled65e8pua-65inch-class-4k-hdr-smart-oled/p-A019377223?plpSellerId=Kmart&prdNo=7&blockNo=7&blockType=G7",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Polaroid",
+    "model": "55GSR4100KL",
+    "url": "https://www.kmart.com/polaroid-55gsr4100kl-55inch-1080p-led-hdtv-w-built/p-A010448069?plpSellerId=Kmart&prdNo=8&blockNo=8&blockType=G8",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "43UK6300PUE",
+    "url": "https://www.kmart.com/lg-43uk6300pue-43inch-class-4k-uhd-hdr-ai/p-A023041797?plpSellerId=Kmart&prdNo=9&blockNo=9&blockType=G9",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN32M4500",
+    "url": "https://www.kmart.com/samsung-un32m4500-32inch-class-m4500-hd-tv/p-A025306874?plpSellerId=Kmart&prdNo=10&blockNo=10&blockType=G10",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Polaroid",
+    "model": "49GSR4100KL",
+    "url": "https://www.kmart.com/polaroid-49gsr4100kl-49inch-1080p-led-hdtv-w-built/p-A011271797?plpSellerId=Kmart&prdNo=11&blockNo=11&blockType=G11",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "65UJ6540-RB",
+    "url": "https://www.kmart.com/lg-65uj6540-rb-refurbished-65-in-4k/p-A010025802?plpSellerId=Kmart&prdNo=12&blockNo=12&blockType=G12",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Supersonic",
+    "model": "97076308M",
+    "url": "https://www.kmart.com/supersonic-97076308m-13.3inch-class-60hz-led-hdtv/p-SPM8526350932?plpSellerId=Kmart&prdNo=13&blockNo=13&blockType=G13",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "TCL",
+    "model": "55C803-RB",
+    "url": "https://www.kmart.com/tcl-55c803-rb-refurbished-55-in-4k/p-A015986265?plpSellerId=Kmart&prdNo=14&blockNo=14&blockType=G14",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "AVERA",
+    "model": "24AER10",
+    "url": "https://www.kmart.com/avera-24aer10-24-in-led/p-A015986270?plpSellerId=Kmart&prdNo=15&blockNo=15&blockType=G15",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sceptre",
+    "model": "E195BD-SHD",
+    "url": "https://www.kmart.com/sceptre-19inch-class-720p-60hz-led-hdtv-pc-monitor/p-05716030000P?plpSellerId=Kmart&prdNo=16&blockNo=16&blockType=G16",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Philips",
+    "model": "55PFL4901",
+    "url": "https://www.kmart.com/philips-55inch-smart-hd-led-tv/p-05745827000P?plpSellerId=Kmart&prdNo=17&blockNo=17&blockType=G17",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Westinghouse",
+    "model": "WD42FB2680-RB",
+    "url": "https://www.kmart.com/westinghouse-wd42fb2680-rb-refurbished-smart-1080p-42/p-A010025823?plpSellerId=Kmart&prdNo=18&blockNo=18&blockType=G18",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "OLED55E8PUA",
+    "url": "https://www.kmart.com/lg-oled55e8pua-55inch-class-oled-4k-glass-tv/p-A019377234?plpSellerId=Kmart&prdNo=19&blockNo=19&blockType=G19",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Vizio",
+    "model": "D32F-E1-RB",
+    "url": "https://www.kmart.com/vizio-d32f-e1-rb-refurbished-32-in/p-A010083170?plpSellerId=Kmart&prdNo=20&blockNo=20&blockType=G20",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN65MU6290-RB",
+    "url": "https://www.kmart.com/samsung-un65mu6290-rb-refurbished-65-in-4k/p-A015986266?plpSellerId=Kmart&prdNo=21&blockNo=21&blockType=G21",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN50MU630D-RB",
+    "url": "https://www.kmart.com/samsung-un50mu630d-rb-refurbished-50-in-4k/p-A010025798?plpSellerId=Kmart&prdNo=22&blockNo=22&blockType=G22",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Vizio",
+    "model": "M70-E3-RB",
+    "url": "https://www.kmart.com/vizio-m70-e3-rb-refurbished-70inch-class/p-A020214377?plpSellerId=Kmart&prdNo=23&blockNo=23&blockType=G23",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Haier",
+    "model": "55UGX3500",
+    "url": "https://www.kmart.com/haier-55ugx3500-55-inch-4k-ultra-hd-led/p-A014358694?plpSellerId=Kmart&prdNo=24&blockNo=24&blockType=G24",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "TCL",
+    "model": "43S405",
+    "url": "https://www.kmart.com/tcl-43s405-43inch-4k-ultra-hd-roku/p-05704743000P?plpSellerId=Kmart&prdNo=25&blockNo=25&blockType=G25",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "TCL",
+    "model": "49D100",
+    "url": "https://www.kmart.com/49inch-720p-hd-led-tv/p-05746757000P?plpSellerId=Kmart&prdNo=26&blockNo=26&blockType=G26",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Trexonic",
+    "model": "970105603M",
+    "url": "https://www.kmart.com/trexonic-970105603m-portable-ultra-lightweight-rechargeable-widescreen-10inch/p-A025083277?plpSellerId=Kmart&prdNo=27&blockNo=27&blockType=G27",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "TCL",
+    "model": "49S405",
+    "url": "https://www.kmart.com/tcl-49s405-49inch-4k-ultra-hd-roku/p-05747430000P?plpSellerId=Kmart&prdNo=28&blockNo=28&blockType=G28",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN43MU630D-RB",
+    "url": "https://www.kmart.com/samsung-un43mu630d-rb-refurbished-43-in-4k/p-A010025805?plpSellerId=Kmart&prdNo=29&blockNo=29&blockType=G29",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Vizio",
+    "model": "E43U-D2-RB",
+    "url": "https://www.kmart.com/vizio-refurbished-vizio-43-in-4k-smart-led/p-05745850000P?plpSellerId=Kmart&prdNo=30&blockNo=30&blockType=G30",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN40MU6290-RB",
+    "url": "https://www.kmart.com/samsung-un40mu6290-rb-refurbished-40-in-4k/p-A015986261?plpSellerId=Kmart&prdNo=31&blockNo=31&blockType=G31",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sceptre",
+    "model": "E243BV-FHD",
+    "url": "https://www.kmart.com/sceptre-23inch-class-1080p-60hz-led-hdtv-e243bv/p-05726591000P?plpSellerId=Kmart&prdNo=32&blockNo=32&blockType=G32",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Westinghouse",
+    "model": "WD32HB1120-RB",
+    "url": "https://www.kmart.com/westinghouse-refurbished-westinghouse-32-in-led-wd32hb1120/p-05747271000P?plpSellerId=Kmart&prdNo=33&blockNo=33&blockType=G33",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN82MU8000FXZA-RB",
+    "url": "https://www.kmart.com/samsung-un82mu8000fxza-rb-refurbished-82-in-4k/p-A010344148?plpSellerId=Kmart&prdNo=34&blockNo=34&blockType=G34",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Vizio",
+    "model": "M65-E0-RB",
+    "url": "https://www.kmart.com/vizio-m65-e0-rb-refurbished-smartcast-65/p-A010344800?plpSellerId=Kmart&prdNo=35&blockNo=35&blockType=G35",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Haier",
+    "model": "65UGX3500",
+    "url": "https://www.kmart.com/haier-65ugx3500-65-inch-4k-ultra-hd-led/p-A014358738?plpSellerId=Kmart&prdNo=36&blockNo=36&blockType=G36",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "55UJ6540-RB",
+    "url": "https://www.kmart.com/lg-55uj6540-rb-refurbished-55-in-4k/p-A010025818?plpSellerId=Kmart&prdNo=37&blockNo=37&blockType=G37",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sceptre",
+    "model": "E325BV-HD",
+    "url": "https://www.kmart.com/sceptre-inc-32inch-class-720p-60hz-led-hdtv/p-05729622000P?plpSellerId=Kmart&prdNo=38&blockNo=38&blockType=G38",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Axess",
+    "model": "970109356M",
+    "url": "https://www.kmart.com/axess-970109356m-22-inch-1080p-led-hdtv-features/p-A025083388?plpSellerId=Kmart&prdNo=39&blockNo=39&blockType=G39",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Polaroid",
+    "model": "43T7U",
+    "url": "https://www.kmart.com/polaroid-43t7u-43-8243-uhd-led-tv-chromecast/p-A023670309?plpSellerId=Kmart&prdNo=40&blockNo=40&blockType=G40",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Vizio",
+    "model": "D40F-E1-RB",
+    "url": "https://www.kmart.com/vizio-d40f-e1-rb-refurbished-40-in/p-A010025897?plpSellerId=Kmart&prdNo=41&blockNo=41&blockType=G41",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN75MU800D-RB",
+    "url": "https://www.kmart.com/samsung-un75mu800d-rb-refurbished-75-in-4k/p-A010025894?plpSellerId=Kmart&prdNo=42&blockNo=42&blockType=G42",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "70UK6570PUB",
+    "url": "https://www.kmart.com/lg-70uk6570pub-75inch-class-4k-uhd-hdr-ai/p-A023038884?plpSellerId=Kmart&prdNo=43&blockNo=43&blockType=G43",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Philips",
+    "model": "55PFL6900",
+    "url": "https://www.kmart.com/philips-55inch-smart-ultra-hd-led-tv/p-05704582000P?plpSellerId=Kmart&prdNo=44&blockNo=44&blockType=G44",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN65MU850D-RB",
+    "url": "https://www.kmart.com/samsung-un65mu850d-rb-refurbished-65-in-4k/p-A010025815?plpSellerId=Kmart&prdNo=45&blockNo=45&blockType=G45",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Axess",
+    "model": "97091125M",
+    "url": "https://www.kmart.com/axess-13.3inch-high-definition-led-tv/p-05742507000P?plpSellerId=Kmart&prdNo=46&blockNo=46&blockType=G46",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "86UK6570PUB",
+    "url": "https://www.kmart.com/lg-86uk6570pub-86inch-class-4k-uhd-hdr-ai/p-A022925900?plpSellerId=Kmart&prdNo=47&blockNo=47&blockType=G47",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Trexonic",
+    "model": "970105604M",
+    "url": "https://www.kmart.com/trexonic-970105604m-portable-ultra-lightweight-rechargeable-widescreen-7inch/p-A025083312?plpSellerId=Kmart&prdNo=48&blockNo=48&blockType=G48",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Vizio",
+    "model": "E80-E3-RB",
+    "url": "https://www.kmart.com/vizio-e80-e3-rb-refurbished-smartcast-80/p-A010083142?plpSellerId=Kmart&prdNo=49&blockNo=49&blockType=G49",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN65MU630D-RB",
+    "url": "https://www.kmart.com/samsung-un65mu630d-rb-refurbished-65-in-4k/p-A010025828?plpSellerId=Kmart&prdNo=50&blockNo=50&blockType=G50",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN58MU6100-RB",
+    "url": "https://www.kmart.com/samsung-un58mu6100-rb-refurbished-58-in-4k/p-A010025822?plpSellerId=Kmart&prdNo=1&blockNo=1&blockType=G1",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "OLED55C7",
+    "url": "https://www.kmart.com/lg-oled55c7-55inch-oled-4k-hdr-smart-tv/p-SPM10409171218?plpSellerId=WALTSCOM&prdNo=2&blockNo=2&blockType=G2",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "OLED77C8PUA",
+    "url": "https://www.kmart.com/lg-oled77c8pua-77inch-class-4k-hdr-smart-oled/p-A019377347?plpSellerId=Kmart&prdNo=3&blockNo=3&blockType=G3",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Philips",
+    "model": "PHI-50PFL6902F7",
+    "url": "https://www.kmart.com/philips-phi-50pfl6902f7-50inch-smart-4k-ultra-hd/p-SPM14220359011?plpSellerId=Kmart&prdNo=4&blockNo=4&blockType=G4",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Philips",
+    "model": "65PFL8900",
+    "url": "https://www.kmart.com/philips-65inch-smart-laser-4k-uhd-tv/p-05745823000P?plpSellerId=Kmart&prdNo=5&blockNo=5&blockType=G5",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "75UK6570PUB",
+    "url": "https://www.kmart.com/lg-75uk6570pub-75inch-class-4k-uhd-hdr-ai/p-A023036667?plpSellerId=Kmart&prdNo=6&blockNo=6&blockType=G6",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Philips",
+    "model": "49PFL6921",
+    "url": "https://www.kmart.com/philips-49inch-google-cast-4k-uhd-60hz-ips/p-05745819000P?plpSellerId=Kmart&prdNo=7&blockNo=7&blockType=G7",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "49UK6300PUE",
+    "url": "https://www.kmart.com/lg-49uk6300pue-49inch-class-4k-uhd-hdr-ai/p-A023041861?plpSellerId=Kmart&prdNo=8&blockNo=8&blockType=G8",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN49MU800D-RB",
+    "url": "https://www.kmart.com/samsung-un49mu800d-rb-refurbished-49-in-4k/p-A010025793?plpSellerId=Kmart&prdNo=9&blockNo=9&blockType=G9",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Vizio",
+    "model": "M50-E1-RB",
+    "url": "https://www.kmart.com/vizio-m50-e1-rb-refurbished-50inch-class/p-A020214367?plpSellerId=Kmart&prdNo=10&blockNo=10&blockType=G10",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Haier",
+    "model": "32G2000",
+    "url": "https://www.kmart.com/haier-32g2000-32inch-720p-led-hd-tv/p-A014358759?plpSellerId=Kmart&prdNo=11&blockNo=11&blockType=G11",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Axess",
+    "model": "970103176M",
+    "url": "https://www.kmart.com/axess-970103176m-24inch-1080p-widescreen-full-hd-led/p-A019444016?plpSellerId=Kmart&prdNo=12&blockNo=12&blockType=G12",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Trexonic",
+    "model": "970105571M",
+    "url": "https://www.kmart.com/trexonic-970105571m-portable-ultra-lightweight-rechargeable-widescreen-9inch/p-A025083293?plpSellerId=Kmart&prdNo=13&blockNo=13&blockType=G13",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "OLED65B7A",
+    "url": "https://www.kmart.com/lg-oled65b7a-65inch-class-oled-4k-hdr-smart/p-SPM10416778218?plpSellerId=WALTSCOM&prdNo=14&blockNo=14&blockType=G14",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "49UF6430MP",
+    "url": "https://www.kmart.com/lg-49uf6430-49-inch-4k-ultra-hd-smart/p-SPM8154444823?plpSellerId=2Shop&prdNo=15&blockNo=15&blockType=G15",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Philips",
+    "model": "65PFL6621",
+    "url": "https://www.kmart.com/philips-65inch-google-cast-4k-uhd-smart-tv/p-05745826000P?plpSellerId=Kmart&prdNo=16&blockNo=16&blockType=G16",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "55UK6300PUE",
+    "url": "https://www.kmart.com/lg-55uk6300pue-55inch-class-4k-uhd-hdr-ai/p-A023041677?plpSellerId=Kmart&prdNo=17&blockNo=17&blockType=G17",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN49MU6290-RB",
+    "url": "https://www.kmart.com/samsung-un49mu6290-rb-refurbished-49-in-4k/p-A015986272?plpSellerId=Kmart&prdNo=18&blockNo=18&blockType=G18",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Haier",
+    "model": "48G2500",
+    "url": "https://www.kmart.com/haier-48g2500-48-inch-1080p-d-led-tv/p-A014358402?plpSellerId=Kmart&prdNo=19&blockNo=19&blockType=G19",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN32M530D-RB",
+    "url": "https://www.kmart.com/samsung-un32m530d-rb-refurbished-32-in-1080p/p-A015986271?plpSellerId=Kmart&prdNo=20&blockNo=20&blockType=G20",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "RCA",
+    "model": "LED55C55R120Q",
+    "url": "https://www.kmart.com/rca-55inch-class-54-5-8inch-diag-led-1080p/p-SPM11522961830?plpSellerId=eBuzz&prdNo=22&blockNo=22&blockType=G22",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Vizio",
+    "model": "M75-E1-RB",
+    "url": "https://www.kmart.com/vizio-m75-e1-rb-refurbished-75inch-class/p-A020214392?plpSellerId=Kmart&prdNo=23&blockNo=23&blockType=G23",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Vizio",
+    "model": "E75-E3-RB",
+    "url": "https://www.kmart.com/vizio-e75-e3-rb-refurbished-smartcast-75/p-A010025931?plpSellerId=Kmart&prdNo=24&blockNo=24&blockType=G24",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "55UK7700PUD",
+    "url": "https://www.kmart.com/lg-55uk7700pud-55inch-class-4k-uhd-hdr-ai/p-A018252105?plpSellerId=Kmart&prdNo=25&blockNo=25&blockType=G25",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Philips",
+    "model": "55PFL6921",
+    "url": "https://www.kmart.com/philips-55inch-google-cast-4k-uhd-60hz-ips/p-05745825000P?plpSellerId=Kmart&prdNo=26&blockNo=26&blockType=G26",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Vizio",
+    "model": "P55-E1-RB",
+    "url": "https://www.kmart.com/vizio-p55-e1-rb-refurbished-55inch-class/p-A020214372?plpSellerId=Kmart&prdNo=27&blockNo=27&blockType=G27",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sceptre",
+    "model": "E328BV-HDC",
+    "url": "https://www.kmart.com/sceptre-inc-32inch-class-720p-60hz-led-hdtv/p-05729220000P?plpSellerId=Kmart&prdNo=28&blockNo=28&blockType=G28",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Axess",
+    "model": "97090954M",
+    "url": "https://www.kmart.com/axess-24inch-1080p-high-definition-led-tv/p-05742505000P?plpSellerId=Kmart&prdNo=29&blockNo=29&blockType=G29",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "TCL",
+    "model": "32S3800MP",
+    "url": "https://www.kmart.com/tcl-32s3800-32-inch-720p-roku-smart-led/p-SPM8143870023?plpSellerId=2Shop&prdNo=30&blockNo=30&blockType=G30",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "TCL",
+    "model": "40FS3800MP",
+    "url": "https://www.kmart.com/tcl-40fs3800-40-inch-1080p-roku-smart-led/p-SPM8869883923?plpSellerId=2Shop&prdNo=31&blockNo=31&blockType=G31",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "65UK7700PUD",
+    "url": "https://www.kmart.com/lg-65uk7700pud-65inch-class-4k-uhd-hdr-ai/p-A018217406?plpSellerId=WALTSCOM&prdNo=32&blockNo=32&blockType=G32",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "OLED65C8PUA",
+    "url": "https://www.kmart.com/lg-oled65c8pua-65inch-class-4k-hdr-smart-oled/p-A021810152?plpSellerId=Kmart&prdNo=33&blockNo=33&blockType=G33",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "KD70X690E",
+    "url": "https://www.kmart.com/sony-kd70x690e-70-inch-4k-uhd-smart-lcd/p-SPM9135681502?plpSellerId=OneCallcom&prdNo=34&blockNo=34&blockType=G34",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sceptre",
+    "model": "X508BV-FHD",
+    "url": "https://www.kmart.com/sceptre-50inch-class-1080p-60hz-lcd-hdtv-x508bv/p-05727839000P?plpSellerId=Kmart&prdNo=35&blockNo=35&blockType=G35",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN55MU800D-RB",
+    "url": "https://www.kmart.com/samsung-un55mu800d-rb-refurbished-55-in-4k/p-A010025834?plpSellerId=Kmart&prdNo=36&blockNo=36&blockType=G36",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "55LJ5500-RB",
+    "url": "https://www.kmart.com/lg-55lj5500-rb-refurbished-55-in-1080p/p-A010025806?plpSellerId=Kmart&prdNo=37&blockNo=37&blockType=G37",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "49LJ5500-RB",
+    "url": "https://www.kmart.com/lg-49lj5500-rb-refurbished-49-in-1080p/p-A010083149?plpSellerId=Kmart&prdNo=38&blockNo=38&blockType=G38",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sceptre",
+    "model": "E243BD-FHD",
+    "url": "https://www.kmart.com/sceptre-inc-sceptre-e243bd-fhd-24-led-series/p-05729219000P?plpSellerId=Kmart&prdNo=39&blockNo=39&blockType=G39",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "RCA",
+    "model": "DECG185R",
+    "url": "https://www.kmart.com/rca-24inch-class-1080p-60hz-led-hdtv/p-SPM10332078920?plpSellerId=Action Packaged Inc&prdNo=40&blockNo=40&blockType=G40",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "XBR85X850D",
+    "url": "https://www.kmart.com/sony-xbr85x850d-85-inch-4k-uhd-smart/p-SPM12427001030?plpSellerId=FiveStar Buy&prdNo=41&blockNo=41&blockType=G41",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Philips",
+    "model": "43PFL6621",
+    "url": "https://www.kmart.com/philips-43inch-google-cast-4k-uhd-smart-tv/p-05745821000P?plpSellerId=Kmart&prdNo=42&blockNo=42&blockType=G42",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "SHARPERVIEW",
+    "model": "97080760M",
+    "url": "https://www.kmart.com/sharperview-supersonic-7inch-portable-lcd-tv-with-atsc/p-05703217000P?plpSellerId=Kmart&prdNo=43&blockNo=43&blockType=G43",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Vizio",
+    "model": "E24-C1MP",
+    "url": "https://www.kmart.com/vizio-e24-c1-24-inches-1080p-smart-led/p-SPM8123012623?plpSellerId=2Shop&prdNo=44&blockNo=44&blockType=G44",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN55MU7000FXZA",
+    "url": "https://www.kmart.com/samsung-un55mu7000-55-inch-4k-uhd-smart/p-SPM8814808402?plpSellerId=OneCallcom&prdNo=45&blockNo=45&blockType=G45",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "QN55Q8FNB",
+    "url": "https://www.kmart.com/samsung-qn55q8fnb-55inch-class-q8fn-qled-smart-4k/p-A019270941?plpSellerId=WALTSCOM&prdNo=46&blockNo=46&blockType=G46",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "QN65Q6F",
+    "url": "https://www.kmart.com/samsung-qn65q6fn-65inch-class-qled-4k-ultra-high/p-A019262413?plpSellerId=WALTSCOM&prdNo=47&blockNo=47&blockType=G47",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Vizio",
+    "model": "E420VO",
+    "url": "https://www.kmart.com/vizio-e420vo-42-inch-lcd-1080p-hdtv/p-SPM2035974301?plpSellerId=Action Packaged Inc&prdNo=48&blockNo=48&blockType=G48",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "QN88Q9F",
+    "url": "https://www.kmart.com/samsung-qn88q9f-75inch-class-qled-4k-ultra/p-SPM10411056918?plpSellerId=WALTSCOM&prdNo=49&blockNo=49&blockType=G49",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Vizio",
+    "model": "USA955",
+    "url": "https://www.kmart.com/vizio-2016-vizio-p75-c1-75inch/p-SPM12300457230?plpSellerId=eBuzz&prdNo=50&blockNo=50&blockType=G50",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Vizio",
+    "model": "USA954",
+    "url": "https://www.kmart.com/vizio-2016-vizio-m80-d3-80inch-class-led/p-SPM12300457630?plpSellerId=eBuzz&prdNo=1&blockNo=1&blockType=G1",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "OLED65C7",
+    "url": "https://www.kmart.com/lg-oled65c7-65inch-oled-4k-hdr-smart-tv/p-SPM8815021002?plpSellerId=WALTSCOM&prdNo=2&blockNo=2&blockType=G2",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "QN55Q7FNA",
+    "url": "https://www.kmart.com/samsung-qn55q7fna-55inch-class-q7fn-qled-smart-4k/p-A019287255?plpSellerId=WALTSCOM&prdNo=3&blockNo=3&blockType=G3",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "65SK8000PUA",
+    "url": "https://www.kmart.com/lg-65sk8000pua-65inch-class-super-uhd-4k-hdr/p-A018217589?plpSellerId=WALTSCOM&prdNo=4&blockNo=4&blockType=G4",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "XBR49X800E",
+    "url": "https://www.kmart.com/sony-xbr49x800e-49-inch-uhd-4k-smart/p-SPM8819645702?plpSellerId=OneCallcom&prdNo=6&blockNo=6&blockType=G6",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN43MU6300FXZA",
+    "url": "https://www.kmart.com/samsung-un43mu6300fxza-tvs-electronics-televisions-lcd-tvs/p-SPM8814670602?plpSellerId=WALTSCOM&prdNo=7&blockNo=7&blockType=G7",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "TCL",
+    "model": "40S305",
+    "url": "https://www.kmart.com/40inch-class-hd-roku-smart-tv/p-05704676000P?plpSellerId=MyGoods&prdNo=8&blockNo=8&blockType=G8",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "OLED77W8PUA",
+    "url": "https://www.kmart.com/lg-oled77w8pua-lg-oled77w8p-77-inch-4k-oled/p-A023240859?plpSellerId=FiveStar Buy&prdNo=10&blockNo=10&blockType=G10",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "SunBriteTV",
+    "model": "SB-S-75-4K-BL",
+    "url": "https://www.kmart.com/sunbrite-sbs754k-sunbrite-75-signature-outdoor-tv-partial/p-A023208063?plpSellerId=FiveStar Buy&prdNo=11&blockNo=11&blockType=G11",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "XBR77A1E",
+    "url": "https://www.kmart.com/sony-xbr77a1e-xbr-77a1e-77inch-bravia-oled-4k/p-A014078280?plpSellerId=Dellcom&prdNo=12&blockNo=12&blockType=G12",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "OLED77G7P",
+    "url": "https://www.kmart.com/lg-oled77g7p-77inch-class-signature-oled-tv/p-SPM10409171618?plpSellerId=FiveStar Buy&prdNo=13&blockNo=13&blockType=G13",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "OLED77C8P-SJ9",
+    "url": "https://www.kmart.com/lg-oled77c8p-sj9-lg-oled77c8p-77-oled-4k/p-A023524493?plpSellerId=FiveStar Buy&prdNo=14&blockNo=14&blockType=G14",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "SunBriteTV",
+    "model": "SB-S-65-4K",
+    "url": "https://www.kmart.com/sunbritetv-sb-s-65-4k-sl-signature-series/p-A025608330?plpSellerId=FiveStar Buy&prdNo=15&blockNo=15&blockType=G15",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "SunBriteTV",
+    "model": "SB-S-65-4K-WH",
+    "url": "https://www.kmart.com/sunbritetv-outdoor-65-inch-signature-4k-ultra-hd/p-A025608325?plpSellerId=FiveStar Buy&prdNo=16&blockNo=16&blockType=G16",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "SunBriteTV",
+    "model": "SB-S-65-4K-BL",
+    "url": "https://www.kmart.com/sunbritetv-sb-s-65-4k-bl-signature-series/p-A025608333?plpSellerId=FiveStar Buy&prdNo=17&blockNo=17&blockType=G17",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "XBR75Z9D",
+    "url": "https://www.kmart.com/sony-75inch-xbr-z9d-series-4k-hdr-with/p-SPM9458612622?plpSellerId=FiveStar Buy&prdNo=18&blockNo=18&blockType=G18",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "OLED65G7P",
+    "url": "https://www.kmart.com/lg-oled65g7p-65inch-class-signature-oled-tv/p-SPM8815021502?plpSellerId=FiveStar Buy&prdNo=19&blockNo=19&blockType=G19",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Peerless-AV",
+    "model": "UV651",
+    "url": "https://www.kmart.com/peerless-uv651-ultraview-outdoor-tv-tools-electricians-tools/p-SPM9471683717?plpSellerId=FiveStar Buy&prdNo=20&blockNo=20&blockType=G20",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "SunBriteTV",
+    "model": "SB-5518HD-BL",
+    "url": "https://www.kmart.com/sunbritetv-sunbrite-sb-5518hd-55-34-pro-series-ultra/p-SPM8877805529?plpSellerId=FiveStar Buy&prdNo=21&blockNo=21&blockType=G21",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "SunBriteTV",
+    "model": "SB-5518HD-WH",
+    "url": "https://www.kmart.com/sunbritetv-sb-5518hd-wh-pro-series-sb-5518hd/p-SPM8919248629?plpSellerId=FiveStar Buy&prdNo=22&blockNo=22&blockType=G22",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "QN65Q9FAMFXZA",
+    "url": "https://www.kmart.com/samsung-qn65q9f-65inch-4k-uhd-hdr-4k/p-SPM10636436320?plpSellerId=OneCallcom&prdNo=23&blockNo=23&blockType=G23",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "XBR-85X900F",
+    "url": "https://www.kmart.com/sony-xbr85x900f-xbr-85x900f-85inch-bravia-4k-ultra/p-A020587716?plpSellerId=FiveStar Buy&prdNo=24&blockNo=24&blockType=G24",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "SunBriteTV",
+    "model": "SB-7574UHD-BL",
+    "url": "https://www.kmart.com/sunbritetv-sb-7574uhd-bl-outdoor-75-inch-4k/p-A025608332?plpSellerId=FiveStar Buy&prdNo=25&blockNo=25&blockType=G25",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "QN75Q9FNA",
+    "url": "https://www.kmart.com/samsung-qn75q9fna-75inch-class-q9fn-qled-smart-4k/p-A019020841?plpSellerId=WALTSCOM&prdNo=26&blockNo=26&blockType=G26",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "OLED65W7P",
+    "url": "https://www.kmart.com/lg-oled65w7p-65inch-class-signature-oled-tv-w/p-A013260951?plpSellerId=FiveStar Buy&prdNo=27&blockNo=27&blockType=G27",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "QN75Q9FAMFXZA",
+    "url": "https://www.kmart.com/samsung-qn75q9famfxza-75-inch-4k-ultra-hd-smart/p-SPM12342563705?plpSellerId=WALTSCOM&prdNo=28&blockNo=28&blockType=G28",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "SunBriteTV",
+    "model": "SB-S-55-4K-WH",
+    "url": "https://www.kmart.com/sunbritetv-sb-s-55-4k-wh-signature-series/p-A025608328?plpSellerId=FiveStar Buy&prdNo=29&blockNo=29&blockType=G29",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "SunBriteTV",
+    "model": "SB-S-55-4K-BL",
+    "url": "https://www.kmart.com/sunbrite-sb-s-55-4k-bl-55-in/p-SPM8814167303?plpSellerId=FiveStar Buy&prdNo=30&blockNo=30&blockType=G30",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Peerless-AV",
+    "model": "UV552",
+    "url": "https://www.kmart.com/peerless-uv552-55-inch-4k-uhd-outdoor-tv/p-SPM8989478702?plpSellerId=FiveStar Buy&prdNo=31&blockNo=31&blockType=G31",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sharp",
+    "model": "PNR706",
+    "url": "https://www.kmart.com/sharp-elect-large-format-displays-70in-lcd-1920x1080/p-SPM8939557629?plpSellerId=BuyDigcom&prdNo=32&blockNo=32&blockType=G32",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "SunBriteTV",
+    "model": "SB-4917HD-BL",
+    "url": "https://www.kmart.com/sunbritetv-sb-4917hd-bl-49inch-aluminum-powder-coated/p-SPM8919248429?plpSellerId=FiveStar Buy&prdNo=33&blockNo=33&blockType=G33",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "SunBriteTV",
+    "model": "SB-4917HD-WH",
+    "url": "https://www.kmart.com/sunbritetv-sb-4917hd-wh-49inch-aluminum-powder-coated/p-SPM8919248229?plpSellerId=FiveStar Buy&prdNo=34&blockNo=34&blockType=G34",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "SunBriteTV",
+    "model": "SB-4917HD-SL",
+    "url": "https://www.kmart.com/sunbritetv-sb-4917hd-sl-49inch-aluminum-powder-coated/p-SPM8919248329?plpSellerId=FiveStar Buy&prdNo=35&blockNo=35&blockType=G35",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "XBR75X940E",
+    "url": "https://www.kmart.com/sony-xbr-75x940e-75inch-4k-ultra-hd/p-SPM10626300720?plpSellerId=OneCallcom&prdNo=36&blockNo=36&blockType=G36",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "QN65Q8C",
+    "url": "https://www.kmart.com/samsung-qn65q8camfxza-65inch-class-led-smart-4k-uhd/p-SPM10636644920?plpSellerId=OneCallcom&prdNo=37&blockNo=37&blockType=G37",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "QN82Q6FNA",
+    "url": "https://www.kmart.com/samsung-qn82q6fna-82inch-class-q6fn-qled-smart-4k/p-A018986059?plpSellerId=WALTSCOM&prdNo=38&blockNo=38&blockType=G38",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "XBR85X850F",
+    "url": "https://www.kmart.com/sony-xbr85x850f-xbr-85x850f-85inch-bravia-4k-ultra/p-A020374049?plpSellerId=FiveStar Buy&prdNo=39&blockNo=39&blockType=G39",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "SunBriteTV",
+    "model": "SB-4217HD-SL",
+    "url": "https://www.kmart.com/sunbritetv-sb-4217hd-42inch-pro-series-direct-sun/p-SPM8835834429?plpSellerId=FiveStar Buy&prdNo=40&blockNo=40&blockType=G40",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "SunBriteTV",
+    "model": "SB-4217HD-WH",
+    "url": "https://www.kmart.com/sunbritetv-sb-4217hd-42inch-pro-series-direct-sun/p-SPM8835834529?plpSellerId=FiveStar Buy&prdNo=41&blockNo=41&blockType=G41",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "XBR65A8F",
+    "url": "https://www.kmart.com/sony-xbr65a8f-55-inch-smart-4k-ud-oled/p-A020676121?plpSellerId=OneCallcom&prdNo=42&blockNo=42&blockType=G42",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN85JU7100",
+    "url": "https://www.kmart.com/samsung-ju7100-series-un85ju7100-85-inch-4k-ultra/p-SPM10343888518?plpSellerId=WALTSCOM&prdNo=43&blockNo=43&blockType=G43",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "86UK6570P",
+    "url": "https://www.kmart.com/lg-86uk6570-86inch-class-3840-x-2160-4k/p-A018202553?plpSellerId=WALTSCOM&prdNo=44&blockNo=44&blockType=G44",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "SunBriteTV",
+    "model": "SB-6574UHD",
+    "url": "https://www.kmart.com/sunbritetv-sb-6574uhd-bl-veranda-series-65inch-class/p-SPM8919247729?plpSellerId=FiveStar Buy&prdNo=45&blockNo=45&blockType=G45",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "XBR75X900F",
+    "url": "https://www.kmart.com/sony-xbr75x900f-xbr-75x900f-75inch-bravia-4k-ultra/p-A017985459?plpSellerId=OneCallcom&prdNo=46&blockNo=46&blockType=G46",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "XBR65Z9D",
+    "url": "https://www.kmart.com/sony-xbr-65z9d-65inch-class-z9d-series/p-SPM10581664420?plpSellerId=OneCallcom&prdNo=47&blockNo=47&blockType=G47",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "QN75Q8FNB",
+    "url": "https://www.kmart.com/samsung-qn75q8fnb-75inch-class-q8fn-qled-smart-4k/p-A019010684?plpSellerId=WALTSCOM&prdNo=48&blockNo=48&blockType=G48",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "QN75Q7FNA",
+    "url": "https://www.kmart.com/samsung-qn75q7fna-75inch-class-q7fn-qled-smart-4k/p-A019020065?plpSellerId=WALTSCOM&prdNo=49&blockNo=49&blockType=G49",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "OLED65C8P",
+    "url": "https://www.kmart.com/lg-oled65c8p-65inch-class-3840-x-2160-oled/p-A018182363?plpSellerId=OneCallcom&prdNo=50&blockNo=50&blockType=G50",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "OLED65E7P",
+    "url": "https://www.kmart.com/lg-oled65e7p-65inch-class-e7-oled-4k/p-SPM12381125530?plpSellerId=WALTSCOM&prdNo=1&blockNo=1&blockType=G1",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "OLED65C8P-SJ9",
+    "url": "https://www.kmart.com/lg-oled65c8p-sj9-lg-oled65c8p-65-smart-oled/p-A025351005?plpSellerId=FiveStar Buy&prdNo=2&blockNo=2&blockType=G2",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN82NU8000FXZA",
+    "url": "https://www.kmart.com/samsung-un82nu8000-82inch-class-4k-ultra-high-definition/p-A017955372?plpSellerId=WALTSCOM&prdNo=3&blockNo=3&blockType=G3",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "SunBriteTV",
+    "model": "SB-3211HD-WH",
+    "url": "https://www.kmart.com/sunbritetv-sb-3211hd-wh-32inch-aluminum-powder-coated/p-SPM8919247429?plpSellerId=FiveStar Buy&prdNo=4&blockNo=4&blockType=G4",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "OLED65C8PUA",
+    "url": "https://www.kmart.com/lg-oled65c8pua-65-class-c8-oled-4k-hdr/p-A025899490?plpSellerId=FiveStar Buy&prdNo=5&blockNo=5&blockType=G5",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "SunBriteTV",
+    "model": "SB-3211HD-SL",
+    "url": "https://www.kmart.com/sunbritetv-sb-3211hd-sl-32inch-aluminum-powder-coated/p-SPM8919247529?plpSellerId=FiveStar Buy&prdNo=6&blockNo=6&blockType=G6",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "XBR65A1E",
+    "url": "https://www.kmart.com/sony-xbr65a1e-tvs-electronics-televisions-lcd-tvs/p-SPM8814210602?plpSellerId=FiveStar Buy&prdNo=7&blockNo=7&blockType=G7",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "XBR75X850D",
+    "url": "https://www.kmart.com/sony-xbr75x850d-75-inch-4k-uhd-smart/p-SPM8774775302?plpSellerId=FiveStar Buy&prdNo=8&blockNo=8&blockType=G8",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "75UV340C",
+    "url": "https://www.kmart.com/lg-75uv340c-75-quot-uhd-3-hdmi-1-rs232/p-SPM14211948311?plpSellerId=MyGoods&prdNo=9&blockNo=9&blockType=G9",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "OLED65C8PUA",
+    "url": "https://www.kmart.com/lg-oled65c8pua-65-class-c8-oled-4k-hdr/p-A025995477?plpSellerId=FiveStar Buy&prdNo=10&blockNo=10&blockType=G10",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "NEC",
+    "model": "X464UNS2",
+    "url": "https://www.kmart.com/nec-multisync-x464uns-2-x-series-46-quot-led/p-SPM17430782907?plpSellerId=BeachCamera&prdNo=11&blockNo=11&blockType=G11",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "QN75Q6FNA",
+    "url": "https://www.kmart.com/samsung-qn75q6fna-75inch-class-q6fn-qled-smart-4k/p-A019030578?plpSellerId=OneCallcom&prdNo=12&blockNo=12&blockType=G12",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "QN65Q9FNA",
+    "url": "https://www.kmart.com/samsung-qn65q9fna-65inch-class-q9fn-qled-smart-4k/p-A019221135?plpSellerId=WALTSCOM&prdNo=13&blockNo=13&blockType=G13",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "OLED65C8PUA",
+    "url": "https://www.kmart.com/lg-oled65c8pua-65-class-c8-oled-4k-hdr/p-A025829351?plpSellerId=FiveStar Buy&prdNo=14&blockNo=14&blockType=G14",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "SunBriteTV",
+    "model": "SB-S-43-4K-BL",
+    "url": "https://www.kmart.com/sunbritetv-sb-s-43-4k-bl-signature-series/p-A025608329?plpSellerId=FiveStar Buy&prdNo=15&blockNo=15&blockType=G15",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "SunBriteTV",
+    "model": "SB-S-43-4K-WH",
+    "url": "https://www.kmart.com/sunbritetv-sb-s-43-4k-wh-signature-series/p-A025608338?plpSellerId=FiveStar Buy&prdNo=16&blockNo=16&blockType=G16",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "SunBriteTV",
+    "model": "SB-S-43-4K-SL",
+    "url": "https://www.kmart.com/sunbritetv-sb-s-43-4k-sl-signature-series/p-A025608323?plpSellerId=FiveStar Buy&prdNo=17&blockNo=17&blockType=G17",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "XBR55A8F",
+    "url": "https://www.kmart.com/sony-xbr55a8f-55-inch-smart-4k-ud-oled/p-A021302246?plpSellerId=OneCallcom&prdNo=18&blockNo=18&blockType=G18",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "QN75Q7FAMFXZA",
+    "url": "https://www.kmart.com/samsung-qn75q7f-75inch-4k-uhd-hdr-qled/p-SPM10640093020?plpSellerId=WALTSCOM&prdNo=19&blockNo=19&blockType=G19",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "75UJ6450",
+    "url": "https://www.kmart.com/lg-75uj6450-75-inch-4k-uhd-smart-led/p-A018213487?plpSellerId=OneCallcom&prdNo=20&blockNo=20&blockType=G20",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "OLED55C8PUA",
+    "url": "https://www.kmart.com/lg-oled55c8pua-lg-oled55c8p-55-smart-oled-4k/p-A026136901?plpSellerId=FiveStar Buy&prdNo=21&blockNo=21&blockType=G21",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Definitive",
+    "model": "AMIB01J4FRE28",
+    "url": "https://www.kmart.com/definitive-technology-definitive-technology-bp9060-tower-speaker-with/p-SPM11180711632?plpSellerId=Ami Ventures Inc&prdNo=22&blockNo=22&blockType=G22",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "XBR75X850F",
+    "url": "https://www.kmart.com/sony-xbr75x850f-xbr-75x850f-75inch-bravia-4k-ultra/p-A017985466?plpSellerId=OneCallcom&prdNo=23&blockNo=23&blockType=G23",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "65SK9500PUA",
+    "url": "https://www.kmart.com/lg-65sk9500pua-65inch-class-super-uhd-4k-hdr/p-A018227040?plpSellerId=WALTSCOM&prdNo=24&blockNo=24&blockType=G24",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "OLED55E7P",
+    "url": "https://www.kmart.com/lg-oled55e7p-55inch-class-e7-oled-4k/p-SPM12381125330?plpSellerId=WALTSCOM&prdNo=25&blockNo=25&blockType=G25",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "OLED55C8PUA",
+    "url": "https://www.kmart.com/lg-oled55c8pua-lg-oled55c8p-55-smart-oled-4k/p-A025829356?plpSellerId=FiveStar Buy&prdNo=26&blockNo=26&blockType=G26",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "XBR55A1E",
+    "url": "https://www.kmart.com/sony-xbr55a1e-tvs-electronics-televisions-lcd-tvs/p-SPM8814807702?plpSellerId=FiveStar Buy&prdNo=27&blockNo=27&blockType=G27",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "XBR70X830F",
+    "url": "https://www.kmart.com/sony-xbr70x830f-sony-xbr-70x830f-series-70-class/p-A023165157?plpSellerId=FiveStar Buy&prdNo=28&blockNo=28&blockType=G28",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN75NU8000",
+    "url": "https://www.kmart.com/samsung-un75nu8000-75inch-class-4k-ultra-high-definition/p-A018181604?plpSellerId=WALTSCOM&prdNo=29&blockNo=29&blockType=G29",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "QN65Q7CNA",
+    "url": "https://www.kmart.com/samsung-qn65q7cna-65inch-class-q7cn-qled-curved-smart/p-A019234869?plpSellerId=WALTSCOM&prdNo=30&blockNo=30&blockType=G30",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "QN65Q8FNB",
+    "url": "https://www.kmart.com/samsung-qn65q8fnb-65inch-class-q8fn-qled-smart-4k/p-A019238224?plpSellerId=OneCallcom&prdNo=31&blockNo=31&blockType=G31",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "OLED55C8PUA",
+    "url": "https://www.kmart.com/lg-oled55c8pua-lg-oled55c8p-55-smart-oled-4k/p-A025890144?plpSellerId=FiveStar Buy&prdNo=32&blockNo=32&blockType=G32",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "OLED55C8P",
+    "url": "https://www.kmart.com/lg-oled55c8p-bundle-package-includes-3-year-extended/p-A022958343?plpSellerId=FiveStar Buy&prdNo=33&blockNo=33&blockType=G33",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "75SJ8570",
+    "url": "https://www.kmart.com/lg-75sj8570-75inch-class-super-uhd-4k-hdr/p-SPM12473553330?plpSellerId=FiveStar Buy&prdNo=34&blockNo=34&blockType=G34",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "QN65Q7FNA",
+    "url": "https://www.kmart.com/samsung-qn65q7fna-65inch-class-q7fn-qled-smart-4k/p-A019233695?plpSellerId=WALTSCOM&prdNo=35&blockNo=35&blockType=G35",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "OLED55C8P",
+    "url": "https://www.kmart.com/lg-oled55c8p-55inch-class-3840-x-2160-oled/p-A018188131?plpSellerId=FiveStar Buy&prdNo=36&blockNo=36&blockType=G36",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "75SK8070PUA",
+    "url": "https://www.kmart.com/lg-75sk8070pua-75inch-class-super-uhd-4k-hdr/p-A019377257?plpSellerId=FiveStar Buy&prdNo=37&blockNo=37&blockType=G37",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "SunBriteTV",
+    "model": "SB-5574UHD",
+    "url": "https://www.kmart.com/sunbritetv-sb-5574uhd-bl-veranda-series-55inch-class/p-SPM8919246929?plpSellerId=FiveStar Buy&prdNo=38&blockNo=38&blockType=G38",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "XBR65X850E",
+    "url": "https://www.kmart.com/sony-xbr65x850e-tvs-electronics-televisions-lcd-tvs/p-SPM8813379102?plpSellerId=FiveStar Buy&prdNo=39&blockNo=39&blockType=G39",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "XBR65X900F",
+    "url": "https://www.kmart.com/sony-xbr65x900f-xbr-65x900f-65inch-bravia-4k-ultra/p-A017985598?plpSellerId=OneCallcom&prdNo=40&blockNo=40&blockType=G40",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "QN65Q7F",
+    "url": "https://www.kmart.com/samsung-qn65q7famfxza-65inch-class-q7f-qled-smart-4k/p-SPM10636436220?plpSellerId=WALTSCOM&prdNo=41&blockNo=41&blockType=G41",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Planar",
+    "model": "997924800",
+    "url": "https://www.kmart.com/planar-digital-signage-997-9248-00-50in-led/p-A020525774?plpSellerId=DigitalShopper&prdNo=42&blockNo=42&blockType=G42",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN65MU7500FXZA",
+    "url": "https://www.kmart.com/samsung-un65mu7500-65-inch-curved-4k-uhd/p-SPM8814807902?plpSellerId=WALTSCOM&prdNo=43&blockNo=43&blockType=G43",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "QN55Q7CNA",
+    "url": "https://www.kmart.com/samsung-qn55q7cna-55inch-class-q7cn-qled-curved-smart/p-A019287258?plpSellerId=WALTSCOM&prdNo=44&blockNo=44&blockType=G44",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "65SK9000PUA",
+    "url": "https://www.kmart.com/lg-65sk9000pua-65inch-class-super-uhd-4k-hdr/p-A018217489?plpSellerId=WALTSCOM&prdNo=45&blockNo=45&blockType=G45",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "XBR60X830F",
+    "url": "https://www.kmart.com/sony-xbr60x830f-sony-xbr-60x830f-series-60-class/p-A023165161?plpSellerId=FiveStar Buy&prdNo=46&blockNo=46&blockType=G46",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN75NU7100FXZA",
+    "url": "https://www.kmart.com/samsung-un75nu7100-75inch-class-4k-hdr-mr120/p-A019218070?plpSellerId=OneCallcom&prdNo=47&blockNo=47&blockType=G47",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "75UK6570PUB",
+    "url": "https://www.kmart.com/lg-75uk6570pub-lg-75uk6570-75-inch-4k-uhd/p-A021712569?plpSellerId=FiveStar Buy&prdNo=48&blockNo=48&blockType=G48",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "75UK6570",
+    "url": "https://www.kmart.com/lg-75uk6570-75inch-class-3840-x-2160-4k/p-A019377254?plpSellerId=WALTSCOM&prdNo=49&blockNo=49&blockType=G49",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Polaroid",
+    "model": "75GSR4100KL",
+    "url": "https://www.kmart.com/polaroid-75gsr4100kl-75inch-4k-uhd-tv/p-SPM8829384811?plpSellerId=Kmart&prdNo=50&blockNo=50&blockType=G50",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "XBR65X850F",
+    "url": "https://www.kmart.com/sony-xbr65x850f-xbr-65x850f-65inch-bravia-4k-ultra/p-A017985476?plpSellerId=Dellcom&prdNo=1&blockNo=1&blockType=G1",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN65MU9000FXZA",
+    "url": "https://www.kmart.com/samsung-un65mu9000-65inch-4k-uhd-smart-tv/p-SPM10636437620?plpSellerId=WALTSCOM&prdNo=2&blockNo=2&blockType=G2",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "SunBriteTV",
+    "model": "SB-4374UHD-BL",
+    "url": "https://www.kmart.com/sunbritetv-sb-4374uhd-bl-veranda-series-43inch-class/p-SPM8919246529?plpSellerId=FiveStar Buy&prdNo=3&blockNo=3&blockType=G3",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "XBR55X930E",
+    "url": "https://www.kmart.com/sony-xbr55x930e-tvs-electronics-televisions-lcd-tvs/p-SPM8813366002?plpSellerId=OneCallcom&prdNo=4&blockNo=4&blockType=G4",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "OLED55B7A",
+    "url": "https://www.kmart.com/lg-oled55b7a-55inch-4k-hdr-smart-oled-tv/p-SPM10689061520?plpSellerId=FiveStar Buy&prdNo=5&blockNo=5&blockType=G5",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "65SJ8500",
+    "url": "https://www.kmart.com/lg-65sj8500-65inch-class-super-uhd-4k-hdr/p-SPM10636646320?plpSellerId=FiveStar Buy&prdNo=6&blockNo=6&blockType=G6",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN65MU8000FXZA",
+    "url": "https://www.kmart.com/samsung-65inch-class-mu8000-4k-uhd-tv/p-05713671000P?plpSellerId=WALTSCOM&prdNo=7&blockNo=7&blockType=G7",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "XBR55X900F",
+    "url": "https://www.kmart.com/sony-xbr55x900f-xbr-55x900f-55inch-bravia-4k-ultra/p-A017985478?plpSellerId=FiveStar Buy&prdNo=8&blockNo=8&blockType=G8",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN65NU8000",
+    "url": "https://www.kmart.com/samsung-un65nu8000-65inch-class-nu8000-premium-smart-4k/p-A017955127?plpSellerId=WALTSCOM&prdNo=9&blockNo=9&blockType=G9",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "QN55Q7CAMFXZA",
+    "url": "https://www.kmart.com/samsung-qn55q7c-55inch-curved-4k-uhd-hdr/p-SPM10632468520?plpSellerId=WALTSCOM&prdNo=10&blockNo=10&blockType=G10",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "70UK6570PUB",
+    "url": "https://www.kmart.com/lg-70uk6570-70inch-class-3840-x-2160-4k/p-A018195561?plpSellerId=Dellcom&prdNo=11&blockNo=11&blockType=G11",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "55SJ8500",
+    "url": "https://www.kmart.com/lg-55sj8500-55inch-class-super-uhd-4k-hdr/p-SPM9062158802?plpSellerId=FiveStar Buy&prdNo=12&blockNo=12&blockType=G12",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN49MU7500FXZA",
+    "url": "https://www.kmart.com/samsung-un49mu7500fxza-tvs-electronics-televisions-lcd-tvs/p-SPM8814670702?plpSellerId=WALTSCOM&prdNo=13&blockNo=13&blockType=G13",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "55SK9000PUA",
+    "url": "https://www.kmart.com/lg-55sk9000pua-55inch-class-super-uhd-4k-hdr/p-A018252259?plpSellerId=WALTSCOM&prdNo=14&blockNo=14&blockType=G14",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "XBR49X900F",
+    "url": "https://www.kmart.com/sony-xbr49x900f-xbr-49x900f-49inch-bravia-4k-ultra/p-A020400098?plpSellerId=OneCallcom&prdNo=15&blockNo=15&blockType=G15",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "QN55Q6FNAFXZA",
+    "url": "https://www.kmart.com/samsung-qn55q6fnafxza-55inch-class-q6f-special-edition-qled/p-A022920234?plpSellerId=OneCallcom&prdNo=16&blockNo=16&blockType=G16",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN65MU7000FXZA",
+    "url": "https://www.kmart.com/samsung-un65mu7000-65-inch-4k-uhd-smart/p-SPM8814808602?plpSellerId=WALTSCOM&prdNo=17&blockNo=17&blockType=G17",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "JVC",
+    "model": "LT-65MA875",
+    "url": "https://www.kmart.com/jvc-kenwood-jvc-lt-65ma875-65inch-4k-ultra/p-A025769818?plpSellerId=WALTSCOM&prdNo=18&blockNo=18&blockType=G18",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN55NU8500",
+    "url": "https://www.kmart.com/samsung-un55nu8500-55inch-class-4k-ultra-high-definition/p-A019287257?plpSellerId=WALTSCOM&prdNo=19&blockNo=19&blockType=G19",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Vizio",
+    "model": "P65-E1-RB",
+    "url": "https://www.kmart.com/vizio-p65-e1-rb-refurbished-65inch-class/p-A020214381?plpSellerId=Kmart&prdNo=20&blockNo=20&blockType=G20",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "32MU99W",
+    "url": "https://www.kmart.com/lg-32mu99w-32-quot-led-lcd-true-4k-per/p-A012885211?plpSellerId=DigitalShopper&prdNo=21&blockNo=21&blockType=G21",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "JVC",
+    "model": "LT-65MA877",
+    "url": "https://www.kmart.com/jvc-kenwood-jvc-lt-65ma877-65inch-4k-ultra/p-A025810001?plpSellerId=WALTSCOM&prdNo=22&blockNo=22&blockType=G22",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "49UV340C",
+    "url": "https://www.kmart.com/lg-49uv340c-49-quot-uhd-3-hdmi-1rs232/p-SPM14211948811?plpSellerId=BuyDigcom&prdNo=23&blockNo=23&blockType=G23",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN55NU8000",
+    "url": "https://www.kmart.com/samsung-un55nu8000-55inch-class-4k-ultra-high-definition/p-A017955364?plpSellerId=WALTSCOM&prdNo=25&blockNo=25&blockType=G25",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "65UJ6300",
+    "url": "https://www.kmart.com/lg-65uj6300-65inch-4k-uhd-hdr-smart-led/p-SPM12358287605?plpSellerId=OneCallcom&prdNo=26&blockNo=26&blockType=G26",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "NEC",
+    "model": "C501",
+    "url": "https://www.kmart.com/nec-c501-nec-display-lfd/p-A011488694?plpSellerId=BuyDigcom&prdNo=27&blockNo=27&blockType=G27",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "55SK8000PUA",
+    "url": "https://www.kmart.com/lg-55sk8000pua-55inch-class-super-uhd-4k-hdr/p-A018252106?plpSellerId=WALTSCOM&prdNo=28&blockNo=28&blockType=G28",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "65UK6300PUE",
+    "url": "https://www.kmart.com/lg-65uk6300-65inch-class-3840-x-2160-4k/p-A023165332?plpSellerId=OneCallcom&prdNo=29&blockNo=29&blockType=G29",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Hisense",
+    "model": "55H8C",
+    "url": "https://www.kmart.com/hisense-55inch-4k-ultra-uhd-smart-led-tv/p-05704372000P?plpSellerId=Ami Ventures Inc&prdNo=30&blockNo=30&blockType=G30",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "49SK8000PUA",
+    "url": "https://www.kmart.com/lg-49sk8000pua-49inch-class-super-uhd-4k-hdr/p-A019377240?plpSellerId=OneCallcom&prdNo=31&blockNo=31&blockType=G31",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "34UC89GB",
+    "url": "https://www.kmart.com/lg-34uc89gb-lg-34uc89g-b-34inch-wfhd-2560x1080/p-A010313129?plpSellerId=WALTSCOM&prdNo=32&blockNo=32&blockType=G32",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN55MU850D-RB",
+    "url": "https://www.kmart.com/samsung-un55mu850d-rb-refurbished-55-in-4k/p-A010025945?plpSellerId=Kmart&prdNo=33&blockNo=33&blockType=G33",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Ergotron",
+    "model": "3187087",
+    "url": "https://www.kmart.com/ergotron-inc-lx-wall-mount-system-for-small/p-SPM12228394916?plpSellerId=123Stores Inc&prdNo=34&blockNo=34&blockType=G34",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "JVC",
+    "model": "LT-55MA875",
+    "url": "https://www.kmart.com/jvc-kenwood-jvc-lt-55ma875-55inch-4k-ultra/p-A025771526?plpSellerId=WALTSCOM&prdNo=35&blockNo=35&blockType=G35",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN49NU8000FXZA",
+    "url": "https://www.kmart.com/samsung-un49nu8000-49inch-class-4k-ultra-high-definition/p-A017955363?plpSellerId=WALTSCOM&prdNo=36&blockNo=36&blockType=G36",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Philips",
+    "model": "PHI-43PFL5922F7",
+    "url": "https://www.kmart.com/philips-phi-43pfl5922f7-43inch-4k-chromecast-led-tv/p-SPM8916298823?plpSellerId=AllianceSupplycom&prdNo=37&blockNo=37&blockType=G37",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "JVC",
+    "model": "LT-55MA877",
+    "url": "https://www.kmart.com/jvc-kenwood-jvc-lt-55ma877-55inch-4k-ultra/p-A025810071?plpSellerId=WALTSCOM&prdNo=38&blockNo=38&blockType=G38",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "KDL48W650D_K1",
+    "url": "https://www.kmart.com/sony-kdl48w650d-k1-sony-48-inch-1080p-smart-led/p-A025306672?plpSellerId=Focus Camera&prdNo=40&blockNo=40&blockType=G40",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Ergotron",
+    "model": "3187086",
+    "url": "https://www.kmart.com/ergotron-inc-lx-wall-mount-system-for-medium/p-SPM12228394516?plpSellerId=DigitalShopper&prdNo=41&blockNo=41&blockType=G41",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "55UK6300PUE",
+    "url": "https://www.kmart.com/lg-55uk6300-55inch-class-3840-x-2160-4k/p-A018252277?plpSellerId=OneCallcom&prdNo=43&blockNo=43&blockType=G43",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Funai",
+    "model": "43MV347X",
+    "url": "https://www.kmart.com/magnavox-43mv347xf7-43-quot-smart-lcd-tv-1080p-per/p-SPM14196068411?plpSellerId=AllianceSupplycom&prdNo=44&blockNo=44&blockType=G44",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "JVC",
+    "model": "LT-49MA877",
+    "url": "https://www.kmart.com/jvc-kenwood-jvc-lt-49ma877-49inch-4k-ultra/p-A025769755?plpSellerId=WALTSCOM&prdNo=45&blockNo=45&blockType=G45",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "JVC",
+    "model": "LT-43MA875",
+    "url": "https://www.kmart.com/jvc-kenwood-jvc-lt-43ma875-43inch-4k-ultra/p-A025771002?plpSellerId=WALTSCOM&prdNo=46&blockNo=46&blockType=G46",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN43M5300AFXZA",
+    "url": "https://www.kmart.com/samsung-un43m5300afxza-43inch-class-led-smart-4k-uhd/p-A010021477?plpSellerId=WALTSCOM&prdNo=47&blockNo=47&blockType=G47",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "KDL48W650D",
+    "url": "https://www.kmart.com/sony-kdl48w650d-48-inch-smart-1080p-lcd/p-SPM8721524102?plpSellerId=Focus Camera&prdNo=48&blockNo=48&blockType=G48",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "49UK6300PUE",
+    "url": "https://www.kmart.com/lg-49uk6300-49inch-class-3840-x-2160-4k/p-A018273558?plpSellerId=OneCallcom&prdNo=49&blockNo=49&blockType=G49",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "JVC",
+    "model": "LT-43MA877",
+    "url": "https://www.kmart.com/jvc-kenwood-jvc-lt-43ma877-43inch-4k-ultra/p-A025769825?plpSellerId=WALTSCOM&prdNo=50&blockNo=50&blockType=G50",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Samsung",
+    "model": "UN40NU7100",
+    "url": "https://www.kmart.com/samsung-un40nu7100-40inch-class-4k-hdr-mr120/p-A019287961?plpSellerId=OneCallcom&prdNo=1&blockNo=1&blockType=G1",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Proscan",
+    "model": "PLDED4897A",
+    "url": "https://www.kmart.com/proscan-plded4897a-48inch-1080p-d-led-tv/p-SPM9458170722?plpSellerId=DiddlyDeals&prdNo=2&blockNo=2&blockType=G2",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Haier",
+    "model": "RA6484",
+    "url": "https://www.kmart.com/haier-24inch-1080p-60-hz-led-hdtv-and/p-SPM8261669013?plpSellerId=Action Packaged Inc&prdNo=3&blockNo=3&blockType=G3",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Ergotron",
+    "model": "3187071",
+    "url": "https://www.kmart.com/ergotron-inc-workfit-a-sit-stand-workstation-dual/p-SPM12228390516?plpSellerId=DigitalShopper&prdNo=4&blockNo=4&blockType=G4",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Westinghouse",
+    "model": "WD43UB4530-RB",
+    "url": "https://www.kmart.com/westinghouse-wd43ub4530-rb-refurbished-43-in-4k/p-A015986275?plpSellerId=Kmart&prdNo=5&blockNo=5&blockType=G5",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Vizio",
+    "model": "E390B1BC",
+    "url": "https://www.kmart.com/vizio-39-inch-1080p-60hz-led-hdtv/p-SPM11517642530?plpSellerId=eBuzz&prdNo=6&blockNo=6&blockType=G6",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "43UK6300PUE",
+    "url": "https://www.kmart.com/lg-43uk6300-43inch-class-3840-x-2160-4k/p-A018274117?plpSellerId=OneCallcom&prdNo=7&blockNo=7&blockType=G7",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Furrion",
+    "model": "358685_0_0",
+    "url": "https://www.kmart.com/furrion-fehs32d9acwr-furrion-32inch-hd-led-tv-120vac/p-SPM8767660214?plpSellerId=MyGoods&prdNo=8&blockNo=8&blockType=G8",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "KDL32W600D",
+    "url": "https://www.kmart.com/sony-32inch-black-led-720p-smart-hdtv-kdl/p-SPM9458529722?plpSellerId=Focus Camera&prdNo=9&blockNo=9&blockType=G9",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Alaterre",
+    "model": "AMBA1020",
+    "url": "https://www.kmart.com/alaterre-pomona-media-console-rustic-natural-home/p-SPM9650333822?plpSellerId=123Stores Inc&prdNo=10&blockNo=10&blockType=G10",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Axess",
+    "model": "970102933M",
+    "url": "https://www.kmart.com/axess-970102933m-32-inch-led-hdtv/p-A011312130?plpSellerId=Outlet&prdNo=11&blockNo=11&blockType=G11",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Furrion",
+    "model": "358686_0_0",
+    "url": "https://www.kmart.com/furrion-24-hd-led-tv-w-o-stand/p-SPM12244393116?plpSellerId=MyGoods&prdNo=12&blockNo=12&blockType=G12",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Axess",
+    "model": "97081142M",
+    "url": "https://www.kmart.com/axess-24inch-led-ac-dc-tv-with-dvd-player/p-05731531000P?plpSellerId=Outlet&prdNo=14&blockNo=14&blockType=G14",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "PROSCAN",
+    "model": "PLED2435A",
+    "url": "https://www.kmart.com/proscan-pled2435a-24-full-1080p-hdtv-tvs/p-SPM9794199322?plpSellerId=Mwavecom&prdNo=15&blockNo=15&blockType=G15",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Gpx",
+    "model": "TDE1982B",
+    "url": "https://www.kmart.com/gpx-pt-gpxtde1982b-18.5inch-720p-led-hdtv-dvd-combination/p-SPM8996007202?plpSellerId=Mwavecom&prdNo=16&blockNo=16&blockType=G16",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Naxa",
+    "model": "97086400M",
+    "url": "https://www.kmart.com/naxa-24inch-led-tv-and-media-player/p-05743040000P?plpSellerId=Kmart&prdNo=17&blockNo=17&blockType=G17",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Haier",
+    "model": "HLT10",
+    "url": "https://www.kmart.com/haier-hlt10-10-inch-handheld-tv-black/p-SPM5051683301?plpSellerId=Action Packaged Inc&prdNo=18&blockNo=18&blockType=G18",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "interloix",
+    "model": "AMIB01M6XDD7S",
+    "url": "https://www.kmart.com/interloix-amib01m6xdd7s-simon-xti-5-starter-package-with/p-SPM9126944202?plpSellerId=Ami Ventures Inc&prdNo=19&blockNo=19&blockType=G19",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Vizio",
+    "model": "D32HN-E4",
+    "url": "https://www.kmart.com/vizio-d32hn-e4-vizio-32-led-hdtv/p-A024531034?plpSellerId=Focus Camera&prdNo=21&blockNo=21&blockType=G21",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Axess",
+    "model": "970102917M",
+    "url": "https://www.kmart.com/axess-970102917m-23.8-inch-high-definition-led-tv/p-SPM10486830008?plpSellerId=Outlet&prdNo=22&blockNo=22&blockType=G22",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sling",
+    "model": "AIRTVPLAYER_K1",
+    "url": "https://www.kmart.com/sling-media-airtvplayer-k1-airtv-4k-streaming-media-player/p-A023035475?plpSellerId=Focus Camera&prdNo=23&blockNo=23&blockType=G23",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Karaoke",
+    "model": "AMIB00KWITN9O",
+    "url": "https://www.kmart.com/karaoke-usa-karaoke-usa-gf830-karaoke-system-with/p-SPM10339737118?plpSellerId=Ami Ventures Inc&prdNo=24&blockNo=24&blockType=G24",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Supersonic",
+    "model": "SC-1912",
+    "url": "https://www.kmart.com/supersonic-sc-1912-18.5-led-tv-dvd-combination/p-SPM9343671517?plpSellerId=MyGoods&prdNo=25&blockNo=25&blockType=G25",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sceptre",
+    "model": "X322BV-SR",
+    "url": "https://www.kmart.com/sceptre-32-inches-720p-led-tv-2016-true/p-A025003524?plpSellerId=Focus Camera&prdNo=26&blockNo=26&blockType=G26",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Proscan",
+    "model": "PLED2435A",
+    "url": "https://www.kmart.com/proscan-pled2435a-24inch-full-1080p-hdtv-tvs/p-SPM9458171122?plpSellerId=MyGoods&prdNo=27&blockNo=27&blockType=G27",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "32LJ500B",
+    "url": "https://www.kmart.com/lg-32lj500b-tvs-electronics-televisions-lcd-tvs/p-SPM10410830718?plpSellerId=OneCallcom&prdNo=28&blockNo=28&blockType=G28",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "AXESS",
+    "model": "AMIB00HM9NSZG",
+    "url": "https://www.kmart.com/axess-amib00hm9nszg-axess-tv1701-19-inch-led/p-A022937903?plpSellerId=Ami Ventures Inc&prdNo=29&blockNo=29&blockType=G29",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Naxa",
+    "model": "97094538M",
+    "url": "https://www.kmart.com/naxa-22inch-class-led-tv-and-dvd-media-player/p-05742579000P?plpSellerId=MyGoods&prdNo=30&blockNo=30&blockType=G30",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Axess",
+    "model": "97081147M",
+    "url": "https://www.kmart.com/axess-19inch-led-ac-dc-tv-with-dvd-player/p-05731533000P?plpSellerId=Outlet&prdNo=31&blockNo=31&blockType=G31",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Curtis",
+    "model": "PLDED3273A",
+    "url": "https://www.kmart.com/curtis-proscan-32inch-720p-led-lcd-tv-1366/p-SPM10994368313?plpSellerId=BuyDigcom&prdNo=32&blockNo=32&blockType=G32",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Supersonic",
+    "model": "97076000M",
+    "url": "https://www.kmart.com/supersonic-15inch-class-led-hdtv-with-built-in/p-05727720000P?plpSellerId=Outlet&prdNo=33&blockNo=33&blockType=G33",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "NAXA",
+    "model": "NT1907",
+    "url": "https://www.kmart.com/naxa-19inch-widescreen-hd-led-tv-with-built/p-05735509000P?plpSellerId=Outlet&prdNo=34&blockNo=34&blockType=G34",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Naxa",
+    "model": "NTD1955",
+    "url": "https://www.kmart.com/naxa-ntd-1955-19inch-class-led-tv/p-SPM9135384017?plpSellerId=DiddlyDeals&prdNo=35&blockNo=35&blockType=G35",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Axess",
+    "model": "97094540M",
+    "url": "https://www.kmart.com/axess-19inch-class-led-tv-and-dvd-media-player/p-05742577000P?plpSellerId=DiddlyDeals&prdNo=36&blockNo=36&blockType=G36",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "PYLE",
+    "model": "97095185M",
+    "url": "https://www.kmart.com/pyle-home-compact-digital-multimedia-projector-hd-1080p/p-00359662000P?plpSellerId=Ami Ventures Inc&prdNo=37&blockNo=37&blockType=G37",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Axess",
+    "model": "970109162M",
+    "url": "https://www.kmart.com/axess-970109162m-10.1-inch-portable-tv-atsc-ntsc-with/p-A023306764?plpSellerId=Outlet&prdNo=38&blockNo=38&blockType=G38",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Lutema",
+    "model": "AMIB00ZUV1API",
+    "url": "https://www.kmart.com/lutema-aa33592-lutema-lamp-009-l02-ask-replacement/p-SPM14194030632?plpSellerId=Ami Ventures Inc&prdNo=39&blockNo=39&blockType=G39",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Supersonic",
+    "model": "SC-2810",
+    "url": "https://www.kmart.com/supersonic-sc-2810-10inch-lcd-portable-digital/p-SPM11174917532?plpSellerId=Outlet&prdNo=40&blockNo=40&blockType=G40",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Supersonic",
+    "model": "9707482M",
+    "url": "https://www.kmart.com/supersonic-9inch-portable-rechargeable-digital-lcd-tv/p-05727948000P?plpSellerId=Outlet&prdNo=41&blockNo=41&blockType=G41",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Nexera",
+    "model": "220530",
+    "url": "https://www.kmart.com/luxeria-220530-allure-decorative-wall-shelf-ebony-home/p-SPM12253194305?plpSellerId=123Stores Inc&prdNo=42&blockNo=42&blockType=G42",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Axess",
+    "model": "97089512M",
+    "url": "https://www.kmart.com/axess-7inch-lcd-tv-with-atsc-ntsc-digital-tuner/p-05742506000P?plpSellerId=123Stores Inc&prdNo=43&blockNo=43&blockType=G43",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "FURINNO",
+    "model": "12186GYW/BK",
+    "url": "https://www.kmart.com/furinno-12186gyw-bk-parsons-42-in-tv-entertainment/p-SPM8826777626?plpSellerId=123Stores Inc&prdNo=44&blockNo=44&blockType=G44",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Roku",
+    "model": "AMIB00D62II9Y",
+    "url": "https://www.kmart.com/roku-adib00d62ii9y-roku-game-remote-generic-packaging/p-SPM11593434625?plpSellerId=Ami Ventures Inc&prdNo=45&blockNo=45&blockType=G45",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Aidata",
+    "model": "US-5001W",
+    "url": "https://www.kmart.com/aidata-us-5001w-universal-handheld-stand-white/p-SPM8831875903?plpSellerId=BisonOfficecom&prdNo=46&blockNo=46&blockType=G46",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "WINGONEER",
+    "model": "AMIB01K7X4G6S",
+    "url": "https://www.kmart.com/wingoneer-amib01k7x4g6s-wingoneer-tpa3116-2x50w-100w-2.1/p-SPM9126943302?plpSellerId=Ami Ventures Inc&prdNo=47&blockNo=47&blockType=G47",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "WINGONEER",
+    "model": "AMIB071RTJ2NG",
+    "url": "https://www.kmart.com/wingoneer-amib071rtj2ng-wingoneer-tpa3116d2-120w-wireless-bluetooth-4.0/p-A022942313?plpSellerId=Ami Ventures Inc&prdNo=48&blockNo=48&blockType=G48",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "WINGONEER",
+    "model": "AMIB01I00FBZ0",
+    "url": "https://www.kmart.com/wingoneer-tda7492-wireless-bluetooth-4.0-250w-2/p-SPM11573615025?plpSellerId=Ami Ventures Inc&prdNo=49&blockNo=49&blockType=G49",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Lutema",
+    "model": "AMIB00ZUVY398",
+    "url": "https://www.kmart.com/lutema-aa33459-lutema-rlc-150-003-l02-viewsonic/p-SPM14198032332?plpSellerId=Ami Ventures Inc&prdNo=50&blockNo=50&blockType=G50",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "WINGONEER",
+    "model": "AMIB01I00FBZ0",
+    "url": "https://www.kmart.com/wingoneer-tda7492-wireless-bluetooth-4.0-250w-2/p-SPM11573615025?plpSellerId=Ami Ventures Inc&prdNo=1&blockNo=1&blockType=G1",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Lutema",
+    "model": "AMIB00ZUVY398",
+    "url": "https://www.kmart.com/lutema-aa33459-lutema-rlc-150-003-l02-viewsonic/p-SPM14198032332?plpSellerId=Ami Ventures Inc&prdNo=2&blockNo=2&blockType=G2",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Interlogix",
+    "model": "AMIB01MSIM0QE",
+    "url": "https://www.kmart.com/interlogix-amib01msim0qe-tx-e201-wireless-door-window-sensor-with/p-SPM9126944402?plpSellerId=Ami Ventures Inc&prdNo=3&blockNo=3&blockType=G3",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "WINGONEER",
+    "model": "AMIB071L34ZXB",
+    "url": "https://www.kmart.com/wingoneer-amib071l34zxb-wingoneer-xl4016e1-dc-4-40v-to/p-A022939706?plpSellerId=Ami Ventures Inc&prdNo=4&blockNo=4&blockType=G4",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "RTA",
+    "model": "1307-TVM-002",
+    "url": "https://www.kmart.com/rta-home-and-office-decorative-35-inch-extra/p-SPM11542985519?plpSellerId=clickhere2shop&prdNo=5&blockNo=5&blockType=G5",
+    "category": "Televisions",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  }
+]

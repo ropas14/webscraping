@@ -1,0 +1,434 @@
+[
+  {
+    "brand": "Toshiba",
+    "model": "SD-V296",
+    "url": "https://www.kmart.com/toshiba-sd-v296-dvd-vcr-combo/p-SPM10145023320?plpSellerId=Action Packaged Inc&prdNo=1&blockNo=1&blockType=G1",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Panasonic",
+    "model": "DMR-ES15S",
+    "url": "https://www.kmart.com/panasonic-dmr-es15s-progressive-scan-dvd-recorder/p-SPM10700602020?plpSellerId=Action Packaged Inc&prdNo=2&blockNo=2&blockType=G2",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "MotivationUSA",
+    "model": "MOTFNAZV427FX4",
+    "url": "https://www.kmart.com/motivationusa-zv427fx4-dvd-vcr-recorder-player-with-line-in-recording/p-SPM10285253020?plpSellerId=Action Packaged Inc&prdNo=3&blockNo=3&blockType=G3",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Toshiba",
+    "model": "DR470N",
+    "url": "https://www.kmart.com/toshiba-dr430-dvd-recorder-black/p-SPM7816303013?plpSellerId=Action Packaged Inc&prdNo=4&blockNo=4&blockType=G4",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Toshiba",
+    "model": "SD-V296",
+    "url": "https://www.kmart.com/toshiba-sd-v296-vhs-vcr-has-no-tv/p-SPM8632932313?plpSellerId=Action Packaged Inc&prdNo=5&blockNo=5&blockType=G5",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LTS",
+    "model": "LTN8916-P16-4TB",
+    "url": "https://www.kmart.com/lts-ltn8916-p16-4tb-16-channel-platinum/p-SPM9398307022?plpSellerId=Mwavecom&prdNo=6&blockNo=6&blockType=G6",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Philips",
+    "model": "ZV427MG9",
+    "url": "https://www.kmart.com/magnavox-zv427mg9-dvd-recorder-and-4-head-hi/p-SPM10606792620?plpSellerId=Action Packaged Inc&prdNo=7&blockNo=7&blockType=G7",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Toshiba",
+    "model": "GJ2W40C",
+    "url": "https://www.kmart.com/toshiba-sd-v296-dvd-vcr-combo-black-retail/p-SPM9980459720?plpSellerId=Action Packaged Inc&prdNo=9&blockNo=9&blockType=G9",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Toshiba",
+    "model": "DQ2754",
+    "url": "https://www.kmart.com/toshiba-dvd-recorder-vcr-combo-with-1080p-upconversion/p-SPM7560817213?plpSellerId=Action Packaged Inc&prdNo=10&blockNo=10&blockType=G10",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Sony",
+    "model": "SLV-N55",
+    "url": "https://www.kmart.com/sony-slv-n55-4-head-hi-fi-vcr/p-SPM10695127920?plpSellerId=Action Packaged Inc&prdNo=11&blockNo=11&blockType=G11",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Toshiba",
+    "model": "KJ13-09-16-6105",
+    "url": "https://www.kmart.com/toshiba-dvr670-dvr670ku-dvd-vhs-recorder-with-built-in-tuner/p-SPM7911151908?plpSellerId=Action Packaged Inc&prdNo=12&blockNo=12&blockType=G12",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Cyberlink",
+    "model": "DVD-EH00-RPU0-00",
+    "url": "https://www.kmart.com/cyberlink-dvd-eh00-rpu0-00-powerdvd-17-ultra/p-SPM12258578516?plpSellerId=Platinum Micro&prdNo=13&blockNo=13&blockType=G13",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "GUD0N",
+    "url": "https://www.kmart.com/lg-gud0n-ultra-slim-8x-sata-super/p-SPM9740350722?plpSellerId=Mwavecom&prdNo=14&blockNo=14&blockType=G14",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Dazzle",
+    "model": "ADIB000062TT8",
+    "url": "https://www.kmart.com/dazzle-multimedia-dazzle-compactflash-reader-dm8000-tvs-electronics/p-SPM8499936131?plpSellerId=ErgodE&prdNo=15&blockNo=15&blockType=G15",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "CJESLNA",
+    "model": "ADIB0056EW4A4",
+    "url": "https://www.kmart.com/cjeslna-sata-2nd-hdd-caddy-for-12.7mm-universal/p-SPM8853307223?plpSellerId=FastMedia&prdNo=16&blockNo=16&blockType=G16",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Vinpower",
+    "model": "CRONUS220-S2T-IJ-BK-VinpowerDigital-MW",
+    "url": "https://www.kmart.com/vinpower-digital-cronus-2-target-robotic-automatic-dvd/p-SPM6100801904?plpSellerId=Mwavecom&prdNo=17&blockNo=17&blockType=G17",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Vinpower",
+    "model": "Econ-S15T-BD-BK-VinpowerDigital-MW",
+    "url": "https://www.kmart.com/vinpower-digital-econ-series-15-target-blu-ray/p-SPM6100811604?plpSellerId=Mwavecom&prdNo=18&blockNo=18&blockType=G18",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Vinpower",
+    "model": "BD-PIO-11-BK-VinpowerDigital-MW",
+    "url": "https://www.kmart.com/vinpower-digital-pioneer-bd-pio-11-bk-black/p-SPM6675995003?plpSellerId=Mwavecom&prdNo=19&blockNo=19&blockType=G19",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Vinpower",
+    "model": "BD-PIO-9-BK-VinpowerDigital-MW",
+    "url": "https://www.kmart.com/vinpower-digital-pioneer-bd-pio-9-bk-black/p-SPM6676002803?plpSellerId=Mwavecom&prdNo=20&blockNo=20&blockType=G20",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Vinpower",
+    "model": "Econ-S10T-BD-BK-VinpowerDigital-MW",
+    "url": "https://www.kmart.com/vinpower-digital-econ-series-10-target-blu-ray/p-SPM14046440724?plpSellerId=Mwavecom&prdNo=22&blockNo=22&blockType=G22",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Kanguru",
+    "model": "DC-DVDDUPE-S15",
+    "url": "https://www.kmart.com/kanguru-15-target-24x-kanguru-daisy-chain/p-SPM11005641213?plpSellerId=MyGoods&prdNo=23&blockNo=23&blockType=G23",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Vinpower",
+    "model": "Econ-S4T-BD-BK-VinpowerDigital-MW",
+    "url": "https://www.kmart.com/vinpower-digital-econ-series-4-target-blu-ray/p-SPM14046449424?plpSellerId=Mwavecom&prdNo=24&blockNo=24&blockType=G24",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Hikvision",
+    "model": "DS7716NII416P",
+    "url": "https://www.kmart.com/hikvision-ds-7716ni-i4-16p-hikvision-embedded-plug/p-SPM8831402923?plpSellerId=MyGoods&prdNo=25&blockNo=25&blockType=G25",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Philips",
+    "model": "P8NEWOIDOCON-082913-6047",
+    "url": "https://www.kmart.com/magnavox-funai-1tb-hdd-dvd-recorder-w-digital-tuner/p-SPM10340758620?plpSellerId=Action Packaged Inc&prdNo=26&blockNo=26&blockType=G26",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Mwave",
+    "model": "DHA-2164BN",
+    "url": "https://www.kmart.com/mwave-dha-2164bn-16-ch-dvr-w/p-SPM7830097222?plpSellerId=Mwavecom&prdNo=27&blockNo=27&blockType=G27",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "UBIQUITI",
+    "model": "UVCNVR2TB",
+    "url": "https://www.kmart.com/ubiquiti-networks-uvc-nvr-2tb-ubiquiti-network-video/p-A012957075?plpSellerId=MyGoods&prdNo=28&blockNo=28&blockType=G28",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Philips",
+    "model": "MDR513H",
+    "url": "https://www.kmart.com/philips-magnavox-mdr513h-f7-hdd-and-dvd-recorder-with/p-A025437888?plpSellerId=Action Packaged Inc&prdNo=29&blockNo=29&blockType=G29",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Vonnic",
+    "model": "VVR4008HM-Vonnic-MW",
+    "url": "https://www.kmart.com/vonnic-vvr4008hm-8ch-h-264-half-d-1-dvr/p-SPM6305457903?plpSellerId=Mwavecom&prdNo=30&blockNo=30&blockType=G30",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Vinpower",
+    "model": "Econ-S7T-DVD-BK-VinpowerDigital-MW",
+    "url": "https://www.kmart.com/vinpower-digital-econ-series-dvd-cd-duplicator-1/p-SPM7210448803?plpSellerId=Mwavecom&prdNo=31&blockNo=31&blockType=G31",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Spartan",
+    "model": "ADIB002HRE11I",
+    "url": "https://www.kmart.com/spartan-adib002hre11i-spartan-duo-3-target-sata-dvd/p-SPM15251107024?plpSellerId=FastMedia&prdNo=32&blockNo=32&blockType=G32",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LTS",
+    "model": "LTN8704-P4-1TB",
+    "url": "https://www.kmart.com/lts-llts-ltn8704-p4-ltn8704-p4-1tb/p-SPM9398306722?plpSellerId=Mwavecom&prdNo=33&blockNo=33&blockType=G33",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "D-Link",
+    "model": "DNR-312L",
+    "url": "https://www.kmart.com/d-link-d-link-dnr-312l-mydlink-one/p-SPM7688584722?plpSellerId=MyGoods&prdNo=34&blockNo=34&blockType=G34",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Peerless",
+    "model": "HDS-WHDI100",
+    "url": "https://www.kmart.com/peerless-av-peerless-av-hds-whdi100-peerair-tm-wireless/p-SPM9135468517?plpSellerId=eCopUSAcom&prdNo=35&blockNo=35&blockType=G35",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Kanguru",
+    "model": "SID24L1DOK",
+    "url": "https://www.kmart.com/kanguru-solutions-1-to-1-22x-kangurudvd-dup/p-SPM8856608129?plpSellerId=zabiva&prdNo=37&blockNo=37&blockType=G37",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "BUFFALO",
+    "model": "ADIB008CNXXM4",
+    "url": "https://www.kmart.com/buffalo-mediastation-bdxl-portable-blu-ray-writer/p-SPM14971985524?plpSellerId=zabiva&prdNo=38&blockNo=38&blockType=G38",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Skyworth",
+    "model": "SLC2221A",
+    "url": "https://www.kmart.com/skyworth-slc2221a-22-in-led-tv-44-dvd-combo/p-SPM8774945203?plpSellerId=MyGoods&prdNo=39&blockNo=39&blockType=G39",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Philips",
+    "model": "3154615",
+    "url": "https://www.kmart.com/philips-voice-tracer-6500-digital-recorder-4-gb/p-SPM11145598132?plpSellerId=MyOfficeInnovations&prdNo=40&blockNo=40&blockType=G40",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "ZID1M8HMK79",
+    "url": "https://www.kmart.com/lg-zid1m8hmk79-lg-region-free-blu-ray-player/p-A015990560?plpSellerId=Edealszone LLC&prdNo=41&blockNo=41&blockType=G41",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Intel",
+    "model": "AXXSATADVDRWROM",
+    "url": "https://www.kmart.com/intel-dvd-177-rw-drive-dvd-177-r-177-rw-serial-ata-internal-tvs/p-SPM8725896714?plpSellerId=MyGoods&prdNo=42&blockNo=42&blockType=G42",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Pyle",
+    "model": "ZID1MFEPCUX",
+    "url": "https://www.kmart.com/pyle-external-capture-card-video-recorder-tv/p-SPM11573643025?plpSellerId=Edealszone LLC&prdNo=43&blockNo=43&blockType=G43",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "ASUS",
+    "model": "SDRW-08D2S-UBLKGAS",
+    "url": "https://www.kmart.com/asus-sdrw-08d2s-u-blk-g-as-asus-sdrw-08d2s/p-A015926690?plpSellerId=FactoryOutletStorecom&prdNo=46&blockNo=46&blockType=G46",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Dell",
+    "model": "RKR9T",
+    "url": "https://www.kmart.com/dell-0rkr9t-dvd-writer-tvs-electronics-computers/p-SPM13519694619?plpSellerId=FactoryOutletStorecom&prdNo=47&blockNo=47&blockType=G47",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Q-SEE",
+    "model": "QGOHD",
+    "url": "https://www.kmart.com/q-see-q-see-q-gohd-q-see/p-SPM8904267423?plpSellerId=MyGoods&prdNo=48&blockNo=48&blockType=G48",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Pinnacle",
+    "model": "ZID01CBXEDG",
+    "url": "https://www.kmart.com/pinnacle-systems-dazzle-dvd-recorder/p-SPM732542014?plpSellerId=ErgodE&prdNo=49&blockNo=49&blockType=G49",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "GP65NW60",
+    "url": "https://www.kmart.com/lg-gp65nw60-external-slim-dvdrw-8x-usb/p-SPM7830947722?plpSellerId=Mwavecom&prdNo=50&blockNo=50&blockType=G50",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "GP65NS60",
+    "url": "https://www.kmart.com/lg-storage-gp65ns60-external-slim-dvdrw-8x/p-SPM7829421622?plpSellerId=Mwavecom&prdNo=1&blockNo=1&blockType=G1",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "LG",
+    "model": "GP65NW60",
+    "url": "https://www.kmart.com/lg-electronics-8x-usb-2.0-super-multi/p-SPM10340694718?plpSellerId=FastMedia&prdNo=2&blockNo=2&blockType=G2",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  },
+  {
+    "brand": "Lg",
+    "model": "ZIDODDE33U",
+    "url": "https://www.kmart.com/lg-network-attached-storage-lg-network-attached-storage/p-SPM7781855223?plpSellerId=Edealszone LLC&prdNo=3&blockNo=3&blockType=G3",
+    "category": "DVD Player/Recorder",
+    "source": "Kmart",
+    "sourceType": "retailer",
+    "sourceId": 5
+  }
+]
